@@ -1,0 +1,800 @@
+﻿Provinsi;Kab Kota;Kecamatan;Desa;Tanggal;Waktu;Satelit;Confidence;Latitude;Longitude
+Kalimantan Barat;KETAPANG;Kendawangan;Airhitam Hulu;27-03-2025;13:22 WIB;NASA-NOAA20;High;-2,58862;110,6923
+Kalimantan Barat;KETAPANG;Kendawangan;Seriam;10-02-2025;12:27 WIB;NASA-NOAA20;High;-2,56419;110,41696
+Kalimantan Barat;LANDAK;Sebangki;Agak;22-05-2025;12:31 WIB;NASA-NOAA20;High;0,22864;109,598
+Kalimantan Barat;LANDAK;Sompak;Galar;26-03-2025;13:42 WIB;NASA-NOAA20;High;0,51569;109,4983
+Kalimantan Barat;MELAWI;Pinoh Utara;Natai Panjang;03-05-2025;13:29 WIB;NASA-NOAA20;High;-0,24606;111,83077
+Kalimantan Barat;SANGGAU;Tayan Hilir;Cempedak;02-05-2025;13:48 WIB;NASA-NOAA20;High;0,06393;110,09015
+Kalimantan Barat;BENGKAYANG;Bengkayang;Bhakti Mulya;03-01-2025;12:40 WIB;NASA-NOAA20;Medium;0,7946;109,46763
+Kalimantan Barat;BENGKAYANG;Bengkayang;Setia Budi;02-01-2025;12:59 WIB;NASA-NOAA20;Medium;0,86678;109,56373
+Kalimantan Barat;BENGKAYANG;Capkala;Aris;01-04-2025;13:29 WIB;NASA-NOAA20;Medium;0,62471;109,10435
+Kalimantan Barat;BENGKAYANG;Jagoi Babang;Jagoi;08-05-2025;13:35 WIB;NASA-NOAA20;Medium;1,34783;109,96587
+Kalimantan Barat;BENGKAYANG;Jagoi Babang;Kumba;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;1,37172;109,80084
+Kalimantan Barat;BENGKAYANG;Ledo;Dayung;18-04-2025;13:10 WIB;NASA-NOAA20;Medium;0,99193;109,65637
+Kalimantan Barat;BENGKAYANG;Ledo;Lesabela;24-05-2025;13:35 WIB;NASA-NOAA20;Medium;1,05371;109,60608
+Kalimantan Barat;BENGKAYANG;Lembah Bawang;Saka Taru;03-05-2025;13:31 WIB;NASA-NOAA20;Medium;0,90129;109,33016
+Kalimantan Barat;BENGKAYANG;Lumar;Belimbing;25-05-2025;13:18 WIB;NASA-NOAA20;Medium;0,91004;109,55377
+Kalimantan Barat;BENGKAYANG;Lumar;Seren Selimbau;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;1,0132;109,38168
+Kalimantan Barat;BENGKAYANG;Monterado;Rantau;01-04-2025;13:29 WIB;NASA-NOAA20;Medium;0,78342;109,03651
+Kalimantan Barat;BENGKAYANG;Samalantan;Tumiang;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;0,77675;109,30576
+Kalimantan Barat;BENGKAYANG;Sanggau Ledo;Bange;02-04-2025;13:10 WIB;NASA-NOAA20;Medium;1,11892;109,65691
+Kalimantan Barat;BENGKAYANG;Seluas;Mayak;09-05-2025;13:16 WIB;NASA-NOAA20;Medium;1,27324;109,76484
+Kalimantan Barat;BENGKAYANG;Seluas;Sahan;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;1,13785;109,80419
+Kalimantan Barat;BENGKAYANG;Seluas;Sahan;26-03-2025;13:42 WIB;NASA-NOAA20;Medium;1,09324;109,81496
+Kalimantan Barat;BENGKAYANG;Seluas;Sahan;30-04-2025;12:46 WIB;NASA-NOAA20;Medium;1,14709;109,77532
+Kalimantan Barat;BENGKAYANG;Siding;Siding;26-03-2025;13:42 WIB;NASA-NOAA20;Medium;1,2755;109,89965
+Kalimantan Barat;BENGKAYANG;Sungai Betung;Suka Bangun;08-05-2025;13:35 WIB;NASA-NOAA20;Medium;0,85089;109,31122
+Kalimantan Barat;BENGKAYANG;Teriak;Puteng;10-02-2025;12:27 WIB;NASA-NOAA20;Medium;0,80385;109,5666
+Kalimantan Barat;BENGKAYANG;Tujuh Belas;Pisak;25-05-2025;13:18 WIB;NASA-NOAA20;Medium;1,10106;109,75745
+Kalimantan Barat;KAPUAS HULU;Boyan Tanjung;Landau Mentail;08-01-2025;12:46 WIB;NASA-NOAA20;Medium;0,55506;112,61469
+Kalimantan Barat;KAPUAS HULU;Bunut Hilir;Bunut Hilir;13-03-2025;12:46 WIB;NASA-NOAA20;Medium;0,78277;112,48342
+Kalimantan Barat;KAPUAS HULU;Embaloh Hulu;Ulak Pauk;07-05-2025;12:14 WIB;NASA-NOAA20;Medium;1,08409;112,49029
+Kalimantan Barat;KAPUAS HULU;Hulu Gurung;Tani Makmur;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;0,44628;112,2235
+Kalimantan Barat;KAPUAS HULU;Kalis;Nanga Danau;07-05-2025;12:14 WIB;NASA-NOAA20;Medium;0,60372;112,9152
+Kalimantan Barat;KAPUAS HULU;Kalis;Nanga Tubuk;07-05-2025;12:14 WIB;NASA-NOAA20;Medium;0,60917;112,91427
+Kalimantan Barat;KAPUAS HULU;Pengkadan;Buak Limbang;15-02-2025;12:31 WIB;NASA-NOAA20;Medium;0,49942;112,38448
+Kalimantan Barat;KAPUAS HULU;Puring Kencana;Kantuk Asam;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;0,9585;111,77402
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Nanga Awin;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;0,96676;112,86951
+Kalimantan Barat;KAPUAS HULU;Seberuang;Sejiram;28-04-2025;13:22 WIB;NASA-NOAA20;Medium;0,44553;111,99823
+Kalimantan Barat;KAPUAS HULU;Semitau;Semitau Hilir;01-03-2025;13:09 WIB;NASA-NOAA20;Medium;0,51644;111,95525
+Kalimantan Barat;KAPUAS HULU;Suhaid;Kerengas;29-04-2025;13:03 WIB;NASA-NOAA20;Medium;0,4974;112,06186
+Kalimantan Barat;KAYONG UTARA;Kepulauan Karimata;Pelapis;11-05-2025;01:38 WIB;NASA-NOAA20;Medium;-1,23317;109,22243
+Kalimantan Barat;KAYONG UTARA;Kepulauan Karimata;Pelapis;28-04-2025;00:41 WIB;NASA-NOAA20;Medium;-1,23674;109,22096
+Kalimantan Barat;KAYONG UTARA;Kepulauan Karimata;Pelapis;29-04-2025;00:24 WIB;NASA-NOAA20;Medium;-1,23424;109,21877
+Kalimantan Barat;KAYONG UTARA;Pulau Maya;Dusun Besar;12-04-2025;13:22 WIB;NASA-NOAA20;Medium;-1,09243;109,47333
+Kalimantan Barat;KAYONG UTARA;Pulau Maya;Dusun Besar;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-1,14469;109,45574
+Kalimantan Barat;KAYONG UTARA;Simpang Hilir;Batu Barat;21-05-2025;12:53 WIB;NASA-NOAA20;Medium;-0,9671;110,01045
+Kalimantan Barat;KAYONG UTARA;Simpang Hilir;Matan Jaya;21-05-2025;12:53 WIB;NASA-NOAA20;Medium;-1,05136;110,1198
+Kalimantan Barat;KAYONG UTARA;Simpang Hilir;Rantau Panjang;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-1,16194;110,00984
+Kalimantan Barat;KAYONG UTARA;Simpang Hilir;Sungaimata-Mata;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-0,99741;110,00279
+Kalimantan Barat;KAYONG UTARA;Simpang Hilir;Sungaimata-Mata;21-05-2025;12:53 WIB;NASA-NOAA20;Medium;-1,04379;109,99982
+Kalimantan Barat;KAYONG UTARA;Simpang Hilir;Sungaimata-Mata;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-1,03872;110,00003
+Kalimantan Barat;KAYONG UTARA;Sukadana;Riam Berasap Jaya;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,34606;110,13129
+Kalimantan Barat;KAYONG UTARA;Teluk Batang;Mas Bangun;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-0,95393;109,77448
+Kalimantan Barat;KAYONG UTARA;Teluk Batang;Telukbatang Selatan;22-02-2025;13:41 WIB;NASA-NOAA20;Medium;-0,98979;109,80458
+Kalimantan Barat;KETAPANG;Air Upas;Air Upas;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,36264;110,77117
+Kalimantan Barat;KETAPANG;Air Upas;Air Upas;05-05-2025;12:50 WIB;NASA-NOAA20;Medium;-2,44993;110,81466
+Kalimantan Barat;KETAPANG;Jelai Hulu;Air Dua;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,92496;110,76942
+Kalimantan Barat;KETAPANG;Jelai Hulu;Bayam Raya;12-02-2025;00:49 WIB;NASA-NOAA20;Medium;-2,14256;110,87392
+Kalimantan Barat;KETAPANG;Jelai Hulu;Kusik Batu Lapu;04-02-2025;12:37 WIB;NASA-NOAA20;Medium;-1,97203;110,93039
+Kalimantan Barat;KETAPANG;Jelai Hulu;Semantun;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,06095;111,02916
+Kalimantan Barat;KETAPANG;Jelai Hulu;Teluk Runjai;02-05-2025;13:48 WIB;NASA-NOAA20;Medium;-1,99347;110,80135
+Kalimantan Barat;KETAPANG;Kendawangan;Air Tarap;25-03-2025;01:19 WIB;NASA-NOAA20;Medium;-2,51586;110,87257
+Kalimantan Barat;KETAPANG;Kendawangan;Airhitam Hulu;17-03-2025;13:10 WIB;NASA-NOAA20;Medium;-2,65012;110,65219
+Kalimantan Barat;KETAPANG;Kendawangan;Bangkal Serai;09-02-2025;12:44 WIB;NASA-NOAA20;Medium;-2,60611;110,50375
+Kalimantan Barat;KETAPANG;Kendawangan;Danau Buntar;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-2,53062;110,90028
+Kalimantan Barat;KETAPANG;Kendawangan;Kedondong;31-03-2025;13:46 WIB;NASA-NOAA20;Medium;-2,28442;110,3208
+Kalimantan Barat;KETAPANG;Kendawangan;Kendawangan Kanan;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-2,80061;110,30051
+Kalimantan Barat;KETAPANG;Kendawangan;Kendawangan Kanan;17-03-2025;13:10 WIB;NASA-NOAA20;Medium;-2,6015;110,21172
+Kalimantan Barat;KETAPANG;Kendawangan;Keramat Jaya;17-03-2025;13:10 WIB;NASA-NOAA20;Medium;-2,60204;110,20816
+Kalimantan Barat;KETAPANG;Kendawangan;Keramat Jaya;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-2,59797;110,20715
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;07-05-2025;12:14 WIB;NASA-NOAA20;Medium;-2,71933;110,46682
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-2,85059;110,41701
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;17-03-2025;13:10 WIB;NASA-NOAA20;Medium;-2,75702;110,43433
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;17-04-2025;13:29 WIB;NASA-NOAA20;Medium;-2,85254;110,32454
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-2,71641;110,52143
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;24-05-2025;13:33 WIB;NASA-NOAA20;Medium;-2,85835;110,47528
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;30-04-2025;12:44 WIB;NASA-NOAA20;Medium;-2,86644;110,43513
+Kalimantan Barat;KETAPANG;Kendawangan;Seriam;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;-2,72301;110,32636
+Kalimantan Barat;KETAPANG;Kendawangan;Seriam;12-04-2025;13:22 WIB;NASA-NOAA20;Medium;-2,66507;110,37958
+Kalimantan Barat;KETAPANG;Kendawangan;Seriam;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-2,56464;110,2418
+Kalimantan Barat;KETAPANG;Kendawangan;Seriam;19-04-2025;12:50 WIB;NASA-NOAA20;Medium;-2,67545;110,34839
+Kalimantan Barat;KETAPANG;Manis Mata;Kelampai;27-03-2025;13:22 WIB;NASA-NOAA20;Medium;-2,12653;110,98113
+Kalimantan Barat;KETAPANG;Manis Mata;Manis Mata;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,47096;110,91022
+Kalimantan Barat;KETAPANG;Manis Mata;Pelempangan;03-05-2025;00:47 WIB;NASA-NOAA20;Medium;-2,11304;111,0659
+Kalimantan Barat;KETAPANG;Manis Mata;Ratu Elok;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-2,49886;110,99671
+Kalimantan Barat;KETAPANG;Manis Mata;Seguling;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;-2,6505;111,14392
+Kalimantan Barat;KETAPANG;Manis Mata;Silat;10-02-2025;12:27 WIB;NASA-NOAA20;Medium;-2,29194;110,90405
+Kalimantan Barat;KETAPANG;Manis Mata;Suak Burung;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,35433;111,031
+Kalimantan Barat;KETAPANG;Marau;Bantan Sari;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-2,12322;110,84805
+Kalimantan Barat;KETAPANG;Marau;Belaban;07-05-2025;12:14 WIB;NASA-NOAA20;Medium;-2,0981;110,63952
+Kalimantan Barat;KETAPANG;Marau;Karya Baru;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,2024;110,74294
+Kalimantan Barat;KETAPANG;Marau;Karya Baru;07-05-2025;12:14 WIB;NASA-NOAA20;Medium;-2,20927;110,74134
+Kalimantan Barat;KETAPANG;Marau;Pelanjau Jaya;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,28796;110,61975
+Kalimantan Barat;KETAPANG;Marau;Randai;17-02-2025;00:56 WIB;NASA-NOAA20;Medium;-2,16424;110,50235
+Kalimantan Barat;KETAPANG;Marau;Runjai Jaya;09-05-2025;13:16 WIB;NASA-NOAA20;Medium;-2,13709;110,76667
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;31-03-2025;13:46 WIB;NASA-NOAA20;Medium;-1,91505;110,12767
+Kalimantan Barat;KETAPANG;Muara Pawan;Tanjung Pasar;20-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,78218;110,06858
+Kalimantan Barat;KETAPANG;Muara Pawan;Tempurukan;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-1,63443;110,06327
+Kalimantan Barat;KETAPANG;Nanga Tayap;Betenung;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-1,55026;110,72728
+Kalimantan Barat;KETAPANG;Nanga Tayap;Siantau Raya;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;-1,67545;110,43939
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sungai Kelik;21-05-2025;12:53 WIB;NASA-NOAA20;Medium;-1,57331;110,39078
+Kalimantan Barat;KETAPANG;Pemahan;Pebihingan;03-01-2025;12:37 WIB;NASA-NOAA20;Medium;-1,73846;110,60936
+Kalimantan Barat;KETAPANG;Sandai;Jago Bersatu;21-05-2025;12:53 WIB;NASA-NOAA20;Medium;-1,23365;110,46578
+Kalimantan Barat;KETAPANG;Sandai;Muara Jekak;14-05-2025;13:22 WIB;NASA-NOAA20;Medium;-1,20596;110,52908
+Kalimantan Barat;KETAPANG;Sandai;Petai Patah;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,17439;110,61624
+Kalimantan Barat;KETAPANG;Sandai;Sandai;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,28266;110,66342
+Kalimantan Barat;KETAPANG;Simpang Dua;Kampar Sebomban;17-04-2025;13:29 WIB;NASA-NOAA20;Medium;-0,81522;110,24784
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang Hulu;20-05-2025;13:10 WIB;NASA-NOAA20;Medium;-0,62573;110,34875
+Kalimantan Barat;KETAPANG;Simpang Hulu;Botuh Bosi;09-02-2025;12:46 WIB;NASA-NOAA20;Medium;-0,53698;110,34191
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hilir;20-05-2025;13:10 WIB;NASA-NOAA20;Medium;-0,53242;110,20261
+Kalimantan Barat;KETAPANG;Simpang Hulu;Sekucing Kualan;13-05-2025;13:42 WIB;NASA-NOAA20;Medium;-0,59594;110,09173
+Kalimantan Barat;KETAPANG;Simpang Hulu;Sekucing Labai;29-04-2025;13:03 WIB;NASA-NOAA20;Medium;-0,44234;110,30738
+Kalimantan Barat;KETAPANG;Singkup;Pantai Ketikal;08-03-2025;12:37 WIB;NASA-NOAA20;Medium;-2,47461;110,76189
+Kalimantan Barat;KETAPANG;Sungai Melayu Rayak;Makmur Abadi;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-1,70367;110,29575
+Kalimantan Barat;KETAPANG;Tumbang Titi;Batu Beransak;10-02-2025;12:27 WIB;NASA-NOAA20;Medium;-1,79937;110,71601
+Kalimantan Barat;KETAPANG;Tumbang Titi;Mahawa;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,9159;110,69176
+Kalimantan Barat;KETAPANG;Tumbang Titi;Mahawa;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-1,92003;110,74052
+Kalimantan Barat;KETAPANG;Tumbang Titi;Nanga Kelampai;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,90356;110,61314
+Kalimantan Barat;KETAPANG;Tumbang Titi;Nanga Kelampai;07-05-2025;13:54 WIB;NASA-NOAA20;Medium;-1,90176;110,51448
+Kalimantan Barat;KOTA PONTIANAK;Pontianak Selatan;Kelurahan Benuamelayu Darat;18-01-2025;12:59 WIB;NASA-NOAA20;Medium;-0,03061;109,34088
+Kalimantan Barat;KOTA SINGKAWANG;Singkawang Selatan;Kelurahan Pangmilang;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;0,79403;109,00355
+Kalimantan Barat;KOTA SINGKAWANG;Singkawang Selatan;Kelurahan Pangmilang;12-04-2025;13:22 WIB;NASA-NOAA20;Medium;0,80746;108,96626
+Kalimantan Barat;KOTA SINGKAWANG;Singkawang Timur;Kelurahan Pajintan;22-02-2025;13:41 WIB;NASA-NOAA20;Medium;0,90998;109,05076
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Batu Ampar;18-05-2025;13:48 WIB;NASA-NOAA20;Medium;-0,86295;109,70078
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Medan Mas;12-02-2025;13:31 WIB;NASA-NOAA20;Medium;-0,71928;109,28284
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Medan Mas;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-0,71895;109,28252
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Medan Mas;16-02-2025;01:13 WIB;NASA-NOAA20;Medium;-0,70503;109,30006
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Medan Mas;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-0,7176;109,34002
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Medan Mas;21-02-2025;01:19 WIB;NASA-NOAA20;Medium;-0,71384;109,28165
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Medan Mas;22-02-2025;13:41 WIB;NASA-NOAA20;Medium;-0,7185;109,28299
+Kalimantan Barat;KUBU RAYA;Kuala Mandor B;Kuala Mandor B;07-05-2025;01:13 WIB;NASA-NOAA20;Medium;-0,0193;109,54504
+Kalimantan Barat;KUBU RAYA;Kuala Mandor B;Kubu Padi;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,10439;109,40977
+Kalimantan Barat;KUBU RAYA;Kuala Mandor B;Kubu Padi;30-04-2025;12:46 WIB;NASA-NOAA20;Medium;0,17006;109,4027
+Kalimantan Barat;KUBU RAYA;Kuala Mandor B;Retok;06-01-2025;13:22 WIB;NASA-NOAA20;Medium;0,16296;109,48378
+Kalimantan Barat;KUBU RAYA;Kuala Mandor B;Retok;12-02-2025;13:31 WIB;NASA-NOAA20;Medium;0,16967;109,44286
+Kalimantan Barat;KUBU RAYA;Kubu;Jangkang Dua;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-0,4471;109,39536
+Kalimantan Barat;KUBU RAYA;Kubu;Seruat Dua;09-02-2025;12:46 WIB;NASA-NOAA20;Medium;-0,43659;109,20571
+Kalimantan Barat;KUBU RAYA;Kubu;Seruat Dua;13-02-2025;00:30 WIB;NASA-NOAA20;Medium;-0,43364;109,20761
+Kalimantan Barat;KUBU RAYA;Rasau Jaya;Pematang Tujuh;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-0,206;109,28014
+Kalimantan Barat;KUBU RAYA;Rasau Jaya;Rasau Jaya Umum;11-02-2025;01:08 WIB;NASA-NOAA20;Medium;-0,18699;109,33216
+Kalimantan Barat;KUBU RAYA;Rasau Jaya;Rasau Jaya Umum;16-04-2025;13:48 WIB;NASA-NOAA20;Medium;-0,20039;109,33695
+Kalimantan Barat;KUBU RAYA;Sungai Ambawang;Durian;16-02-2025;01:13 WIB;NASA-NOAA20;Medium;-0,07919;109,44398
+Kalimantan Barat;KUBU RAYA;Sungai Ambawang;Simpang Kanan;23-04-2025;13:16 WIB;NASA-NOAA20;Medium;-0,06527;109,50683
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pal Sembilan;12-02-2025;13:31 WIB;NASA-NOAA20;Medium;-0,07865;109,31761
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Punggur Kapuas;17-03-2025;13:10 WIB;NASA-NOAA20;Medium;-0,10522;109,20173
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;12-02-2025;13:31 WIB;NASA-NOAA20;Medium;-0,10007;109,32079
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;14-02-2025;01:51 WIB;NASA-NOAA20;Medium;-0,1753;109,30177
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Kuala Dua;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-0,20402;109,40804
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Mekar Baru;19-04-2025;12:53 WIB;NASA-NOAA20;Medium;-0,08263;109,42188
+Kalimantan Barat;KUBU RAYA;Teluk Pakedai;Selat Remis;16-04-2025;13:48 WIB;NASA-NOAA20;Medium;-0,34035;109,16599
+Kalimantan Barat;KUBU RAYA;Teluk Pakedai;Selat Remis;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-0,32558;109,17303
+Kalimantan Barat;LANDAK;Air Besar;Engkadik Pade;23-05-2025;12:14 WIB;NASA-NOAA20;Medium;0,73933;110,06688
+Kalimantan Barat;LANDAK;Air Besar;Sekendal;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,62339;110,13251
+Kalimantan Barat;LANDAK;Jelimpo;Balai Peluntan;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;0,21129;109,97185
+Kalimantan Barat;LANDAK;Jelimpo;Sekais;03-05-2025;13:31 WIB;NASA-NOAA20;Medium;0,42705;110,13676
+Kalimantan Barat;LANDAK;Mandor;Bebatung;17-01-2025;13:16 WIB;NASA-NOAA20;Medium;0,35383;109,44048
+Kalimantan Barat;LANDAK;Mandor;Bebatung;27-03-2025;13:22 WIB;NASA-NOAA20;Medium;0,37993;109,45586
+Kalimantan Barat;LANDAK;Mandor;Keramas;03-05-2025;13:31 WIB;NASA-NOAA20;Medium;0,27701;109,51723
+Kalimantan Barat;LANDAK;Mandor;Keramas;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,30036;109,55784
+Kalimantan Barat;LANDAK;Mandor;Mandor;28-04-2025;13:22 WIB;NASA-NOAA20;Medium;0,35246;109,35764
+Kalimantan Barat;LANDAK;Mandor;Manggang;07-05-2025;13:54 WIB;NASA-NOAA20;Medium;0,26394;109,48636
+Kalimantan Barat;LANDAK;Mandor;Mengkunyit;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;0,39959;109,52843
+Kalimantan Barat;LANDAK;Mandor;Pongok;03-01-2025;12:40 WIB;NASA-NOAA20;Medium;0,31287;109,41095
+Kalimantan Barat;LANDAK;Mandor;Salatiga;21-05-2025;12:53 WIB;NASA-NOAA20;Medium;0,30541;109,30452
+Kalimantan Barat;LANDAK;Mandor;Salatiga;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,35527;109,29961
+Kalimantan Barat;LANDAK;Mandor;Sebadu;03-05-2025;13:31 WIB;NASA-NOAA20;Medium;0,3436;109,50741
+Kalimantan Barat;LANDAK;Mandor;Sebadu;27-03-2025;13:22 WIB;NASA-NOAA20;Medium;0,35897;109,47407
+Kalimantan Barat;LANDAK;Mandor;Semenok;12-02-2025;13:31 WIB;NASA-NOAA20;Medium;0,41976;109,46181
+Kalimantan Barat;LANDAK;Mandor;Simpang Kasturi;05-04-2025;12:14 WIB;NASA-NOAA20;Medium;0,36882;109,31563
+Kalimantan Barat;LANDAK;Mandor;Sumsum;03-01-2025;12:40 WIB;NASA-NOAA20;Medium;0,27653;109,44405
+Kalimantan Barat;LANDAK;Mandor;Sumsum;12-02-2025;13:31 WIB;NASA-NOAA20;Medium;0,25816;109,4306
+Kalimantan Barat;LANDAK;Mempawah Hulu;Ansolok;28-03-2025;13:03 WIB;NASA-NOAA20;Medium;0,69447;109,33738
+Kalimantan Barat;LANDAK;Mempawah Hulu;Babatn;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;0,59602;109,32166
+Kalimantan Barat;LANDAK;Mempawah Hulu;Mentonyek;26-04-2025;12:21 WIB;NASA-NOAA20;Medium;0,58333;109,37363
+Kalimantan Barat;LANDAK;Mempawah Hulu;Sailo;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,56137;109,39651
+Kalimantan Barat;LANDAK;Mempawah Hulu;Sailo;27-03-2025;13:22 WIB;NASA-NOAA20;Medium;0,61712;109,43452
+Kalimantan Barat;LANDAK;Mempawah Hulu;Sala'As;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;0,62557;109,37801
+Kalimantan Barat;LANDAK;Mempawah Hulu;Sala'As;15-02-2025;12:33 WIB;NASA-NOAA20;Medium;0,6243;109,37498
+Kalimantan Barat;LANDAK;Mempawah Hulu;Sampuro;02-01-2025;12:59 WIB;NASA-NOAA20;Medium;0,52999;109,41692
+Kalimantan Barat;LANDAK;Mempawah Hulu;Tiang Tanjung;28-03-2025;13:03 WIB;NASA-NOAA20;Medium;0,71779;109,44669
+Kalimantan Barat;LANDAK;Menjalin;Bengkawe;12-02-2025;13:31 WIB;NASA-NOAA20;Medium;0,48443;109,38126
+Kalimantan Barat;LANDAK;Menjalin;Bengkawe;26-03-2025;13:42 WIB;NASA-NOAA20;Medium;0,4425;109,4334
+Kalimantan Barat;LANDAK;Menjalin;Lamoanak;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,39421;109,4369
+Kalimantan Barat;LANDAK;Menjalin;Nangka;28-04-2025;13:22 WIB;NASA-NOAA20;Medium;0,5005;109,30795
+Kalimantan Barat;LANDAK;Menjalin;Tempoak;03-05-2025;13:31 WIB;NASA-NOAA20;Medium;0,55225;109,25337
+Kalimantan Barat;LANDAK;Menjalin;Tempoak;05-05-2025;12:53 WIB;NASA-NOAA20;Medium;0,52213;109,28347
+Kalimantan Barat;LANDAK;Menyuke;Ansang;15-05-2025;13:03 WIB;NASA-NOAA20;Medium;0,60979;109,62894
+Kalimantan Barat;LANDAK;Menyuke;Sungai Lubang;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,54948;109,74555
+Kalimantan Barat;LANDAK;Menyuke;Sungai Lubang;26-03-2025;13:42 WIB;NASA-NOAA20;Medium;0,55782;109,74645
+Kalimantan Barat;LANDAK;Meranti;Ampadi;03-01-2025;12:40 WIB;NASA-NOAA20;Medium;0,80916;109,79873
+Kalimantan Barat;LANDAK;Ngabang;Pak Mayam;07-05-2025;13:54 WIB;NASA-NOAA20;Medium;0,12788;109,82059
+Kalimantan Barat;LANDAK;Ngabang;Sungai Keli;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;0,47237;109,93036
+Kalimantan Barat;LANDAK;Sebangki;Agak;17-02-2025;13:35 WIB;NASA-NOAA20;Medium;0,25768;109,5525
+Kalimantan Barat;LANDAK;Sebangki;Sungai Segak;30-04-2025;12:46 WIB;NASA-NOAA20;Medium;0,09802;109,50183
+Kalimantan Barat;LANDAK;Sengah Temila;Aur Sampuk;03-05-2025;13:31 WIB;NASA-NOAA20;Medium;0,33366;109,568
+Kalimantan Barat;LANDAK;Sengah Temila;Banying;02-01-2025;12:59 WIB;NASA-NOAA20;Medium;0,39906;109,73149
+Kalimantan Barat;LANDAK;Sengah Temila;Keranji Paidang;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;0,35603;109,71795
+Kalimantan Barat;LANDAK;Sengah Temila;Keranji Paidang;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;0,33969;109,70876
+Kalimantan Barat;LANDAK;Sengah Temila;Keranji Paidang;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;0,34486;109,68111
+Kalimantan Barat;LANDAK;Sengah Temila;Keranji Paidang;26-03-2025;13:42 WIB;NASA-NOAA20;Medium;0,39055;109,68501
+Kalimantan Barat;SINTANG;Serawai;Talian Sahabung;08-01-2025;13:44 WIB;NASA-MODIS;Medium;-0,26056;112,52173
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;25-05-2025;13:16 WIB;NASA-NOAA20;High;-2,16167;115,58272
+Kalimantan Selatan;BALANGAN;Batu Mandi;Gunung Manau;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;-2,46879;115,52914
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-2,1627;115,5794
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;01-03-2025;00:30 WIB;NASA-NOAA20;Medium;-2,16254;115,58002
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;01-05-2025;01:26 WIB;NASA-NOAA20;Medium;-2,16279;115,57539
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;06-03-2025;00:36 WIB;NASA-NOAA20;Medium;-2,16034;115,58253
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;06-04-2025;00:54 WIB;NASA-NOAA20;Medium;-2,16153;115,58318
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;07-01-2025;00:24 WIB;NASA-NOAA20;Medium;-2,15438;115,58702
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;07-04-2025;13:16 WIB;NASA-NOAA20;Medium;-2,20332;115,62144
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-2,16318;115,58112
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;10-03-2025;01:02 WIB;NASA-NOAA20;Medium;-2,16418;115,57896
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;10-04-2025;01:19 WIB;NASA-NOAA20;Medium;-2,16131;115,57892
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;-2,16486;115,5807
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-2,15943;115,58505
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-2,1619;115,58201
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;12-05-2025;12:21 WIB;NASA-NOAA20;Medium;-2,16128;115,58481
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;13-04-2025;00:22 WIB;NASA-NOAA20;Medium;-2,16027;115,58151
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,15953;115,58015
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;14-01-2025;12:31 WIB;NASA-NOAA20;Medium;-2,16097;115,58372
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;14-03-2025;01:26 WIB;NASA-NOAA20;Medium;-2,16192;115,57894
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;15-03-2025;01:09 WIB;NASA-NOAA20;Medium;-2,16286;115,57806
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;15-05-2025;00:24 WIB;NASA-NOAA20;Medium;-2,15957;115,58401
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;16-03-2025;00:47 WIB;NASA-NOAA20;Medium;-2,16339;115,58176
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;16-04-2025;01:09 WIB;NASA-NOAA20;Medium;-2,16288;115,58047
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;17-05-2025;12:25 WIB;NASA-NOAA20;Medium;-2,16118;115,58237
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;18-02-2025;00:36 WIB;NASA-NOAA20;Medium;-2,16291;115,58192
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;19-04-2025;23:52 WIB;NASA-NOAA20;Medium;-2,16157;115,57593
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-2,16069;115,58141
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;20-04-2025;01:32 WIB;NASA-NOAA20;Medium;-2,16295;115,57683
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,16061;115,58334
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;21-02-2025;01:19 WIB;NASA-NOAA20;Medium;-2,16087;115,57816
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;23-04-2025;00:37 WIB;NASA-NOAA20;Medium;-2,16337;115,58037
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;24-02-2025;00:24 WIB;NASA-NOAA20;Medium;-2,16003;115,58303
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;24-04-2025;00:15 WIB;NASA-NOAA20;Medium;-2,16134;115,58455
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;26-01-2025;01:08 WIB;NASA-NOAA20;Medium;-2,16023;115,5815
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-2,16197;115,58257
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;-2,1611;115,58464
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;28-04-2025;00:41 WIB;NASA-NOAA20;Medium;-2,16301;115,58094
+Kalimantan Selatan;BALANGAN;Juai;Lalayau;29-04-2025;00:24 WIB;NASA-NOAA20;Medium;-2,16403;115,57717
+Kalimantan Selatan;BALANGAN;Juai;Mihu;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-2,1716;115,57085
+Kalimantan Selatan;BALANGAN;Juai;Mihu;01-03-2025;00:30 WIB;NASA-NOAA20;Medium;-2,17176;115,57066
+Kalimantan Selatan;BALANGAN;Juai;Mihu;01-05-2025;01:26 WIB;NASA-NOAA20;Medium;-2,1707;115,5674
+Kalimantan Selatan;BALANGAN;Juai;Mihu;03-05-2025;00:47 WIB;NASA-NOAA20;Medium;-2,17078;115,57235
+Kalimantan Selatan;BALANGAN;Juai;Mihu;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,17295;115,57281
+Kalimantan Selatan;BALANGAN;Juai;Mihu;06-05-2025;01:32 WIB;NASA-NOAA20;Medium;-2,17233;115,56667
+Kalimantan Selatan;BALANGAN;Juai;Mihu;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-2,17326;115,56936
+Kalimantan Selatan;BALANGAN;Juai;Mihu;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;-2,1706;115,57201
+Kalimantan Selatan;BALANGAN;Juai;Mihu;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-2,17177;115,57412
+Kalimantan Selatan;BALANGAN;Juai;Mihu;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,17082;115,57085
+Kalimantan Selatan;BALANGAN;Juai;Mihu;14-03-2025;01:26 WIB;NASA-NOAA20;Medium;-2,16957;115,56687
+Kalimantan Selatan;BALANGAN;Juai;Mihu;15-03-2025;01:09 WIB;NASA-NOAA20;Medium;-2,17064;115,56714
+Kalimantan Selatan;BALANGAN;Juai;Mihu;15-05-2025;00:24 WIB;NASA-NOAA20;Medium;-2,17329;115,57224
+Kalimantan Selatan;BALANGAN;Juai;Mihu;16-03-2025;00:47 WIB;NASA-NOAA20;Medium;-2,17257;115,57261
+Kalimantan Selatan;BALANGAN;Juai;Mihu;16-04-2025;01:09 WIB;NASA-NOAA20;Medium;-2,17064;115,56967
+Kalimantan Selatan;BALANGAN;Juai;Mihu;18-02-2025;00:36 WIB;NASA-NOAA20;Medium;-2,17124;115,56992
+Kalimantan Selatan;BALANGAN;Juai;Mihu;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-2,17337;115,57169
+Kalimantan Selatan;BALANGAN;Juai;Mihu;20-04-2025;01:32 WIB;NASA-NOAA20;Medium;-2,16755;115,56609
+Kalimantan Selatan;BALANGAN;Juai;Mihu;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,17334;115,57336
+Kalimantan Selatan;BALANGAN;Juai;Mihu;21-02-2025;01:19 WIB;NASA-NOAA20;Medium;-2,17117;115,56847
+Kalimantan Selatan;BALANGAN;Juai;Mihu;23-04-2025;00:37 WIB;NASA-NOAA20;Medium;-2,17227;115,5718
+Kalimantan Selatan;BALANGAN;Juai;Mihu;24-04-2025;00:15 WIB;NASA-NOAA20;Medium;-2,16433;115,57612
+Kalimantan Selatan;BALANGAN;Juai;Mihu;25-05-2025;00:37 WIB;NASA-NOAA20;Medium;-2,17008;115,57268
+Kalimantan Selatan;BALANGAN;Juai;Mihu;26-01-2025;01:08 WIB;NASA-NOAA20;Medium;-2,17268;115,56979
+Kalimantan Selatan;BALANGAN;Juai;Mihu;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-2,17359;115,57014
+Kalimantan Selatan;BALANGAN;Juai;Mihu;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;-2,17104;115,57336
+Kalimantan Selatan;BALANGAN;Juai;Mihu;28-04-2025;00:41 WIB;NASA-NOAA20;Medium;-2,17188;115,57249
+Kalimantan Selatan;BALANGAN;Juai;Mihu;29-04-2025;00:24 WIB;NASA-NOAA20;Medium;-2,1709;115,57125
+Kalimantan Selatan;BALANGAN;Juai;Wonorejo;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,18325;115,56904
+Kalimantan Selatan;BALANGAN;Juai;Wonorejo;14-03-2025;01:26 WIB;NASA-NOAA20;Medium;-2,19576;115,56879
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-2,21042;115,4967
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;01-03-2025;00:30 WIB;NASA-NOAA20;Medium;-2,21013;115,49701
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;02-01-2025;12:57 WIB;NASA-NOAA20;Medium;-2,21279;115,49599
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;03-05-2025;00:47 WIB;NASA-NOAA20;Medium;-2,21104;115,49693
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,21222;115,49944
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;05-05-2025;23:52 WIB;NASA-NOAA20;Medium;-2,20929;115,49932
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;06-03-2025;00:36 WIB;NASA-NOAA20;Medium;-2,21159;115,52094
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;-2,21342;115,49675
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-2,2129;115,49683
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;09-02-2025;00:04 WIB;NASA-NOAA20;Medium;-2,20999;115,49881
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;-2,21356;115,51511
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-2,21011;115,49894
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;12-01-2025;00:30 WIB;NASA-NOAA20;Medium;-2,21228;115,4947
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-2,20995;115,4962
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;13-04-2025;00:24 WIB;NASA-NOAA20;Medium;-2,21201;115,52238
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,21213;115,4926
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;15-02-2025;01:32 WIB;NASA-NOAA20;Medium;-2,21117;115,5187
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;15-03-2025;01:09 WIB;NASA-NOAA20;Medium;-2,21108;115,49376
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;16-04-2025;12:06 WIB;NASA-NOAA20;Medium;-2,21037;115,50182
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;16-05-2025;12:44 WIB;NASA-NOAA20;Medium;-2,21223;115,49709
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;17-05-2025;12:25 WIB;NASA-NOAA20;Medium;-2,21108;115,50007
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;18-02-2025;00:36 WIB;NASA-NOAA20;Medium;-2,21043;115,49556
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;18-03-2025;00:09 WIB;NASA-NOAA20;Medium;-2,21068;115,49962
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;19-04-2025;23:52 WIB;NASA-NOAA20;Medium;-2,20868;115,50078
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-2,21344;115,49642
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,21181;115,49939
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-2,21235;115,49855
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;23-04-2025;00:37 WIB;NASA-NOAA20;Medium;-2,21104;115,49744
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;24-02-2025;00:24 WIB;NASA-NOAA20;Medium;-2,21188;115,49644
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;24-04-2025;00:15 WIB;NASA-NOAA20;Medium;-2,21267;115,49993
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;25-02-2025;12:44 WIB;NASA-NOAA20;Medium;-2,21146;115,49773
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-2,21343;115,5216
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;-2,21024;115,49902
+Kalimantan Selatan;BALANGAN;Paringin;Lok Batung;28-04-2025;00:41 WIB;NASA-NOAA20;Medium;-2,21075;115,49615
+Kalimantan Selatan;BANJAR;Astambul;Kaliukan;02-04-2025;13:08 WIB;NASA-NOAA20;Medium;-3,32867;114,89564
+Kalimantan Selatan;BANJAR;Cintapuri Darussalam;Makmur Karya;08-03-2025;12:37 WIB;NASA-NOAA20;Medium;-3,08065;114,8327
+Kalimantan Selatan;BARITO KUALA;Kuripan;Jambu Baru;08-03-2025;12:37 WIB;NASA-NOAA20;Medium;-2,76241;114,76254
+Kalimantan Selatan;BARITO KUALA;Mekarsari;Tinggiran Tengah;05-05-2025;12:50 WIB;NASA-NOAA20;Medium;-3,29785;114,48796
+Kalimantan Selatan;BARITO KUALA;Tabukan;Rantau Bamban;08-03-2025;12:37 WIB;NASA-NOAA20;Medium;-2,77306;114,71445
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-2,87371;115,26394
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;01-02-2025;00:56 WIB;NASA-NOAA20;Medium;-2,87464;115,2635
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-2,87729;115,26167
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;04-03-2025;01:13 WIB;NASA-NOAA20;Medium;-2,87558;115,26111
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;05-02-2025;01:19 WIB;NASA-NOAA20;Medium;-2,8732;115,25997
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;06-01-2025;00:41 WIB;NASA-NOAA20;Medium;-2,87631;115,26421
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;07-01-2025;00:24 WIB;NASA-NOAA20;Medium;-2,8738;115,26349
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;-2,87497;115,26302
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-2,87294;115,26306
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;09-03-2025;12:21 WIB;NASA-NOAA20;Medium;-2,87434;115,26694
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;12-01-2025;00:30 WIB;NASA-NOAA20;Medium;-2,87498;115,26379
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-2,87511;115,26414
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;12-05-2025;01:19 WIB;NASA-NOAA20;Medium;-2,87437;115,25964
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;13-03-2025;23:45 WIB;NASA-NOAA20;Medium;-2,87344;115,26349
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,87639;115,26245
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;14-02-2025;12:50 WIB;NASA-NOAA20;Medium;-2,87483;115,26495
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;16-02-2025;12:14 WIB;NASA-NOAA20;Medium;-2,87496;115,26881
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;18-02-2025;00:36 WIB;NASA-NOAA20;Medium;-2,87379;115,26254
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;19-04-2025;23:52 WIB;NASA-NOAA20;Medium;-2,87528;115,2637
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;22-02-2025;11:59 WIB;NASA-NOAA20;Medium;-2,87616;115,26671
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;23-03-2025;00:17 WIB;NASA-NOAA20;Medium;-2,8733;115,26389
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;25-02-2025;12:44 WIB;NASA-NOAA20;Medium;-2,87465;115,26384
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-2,87624;115,26308
+Kalimantan Selatan;HULU SUNGAI SELATAN;Sungai Raya;Batang Kulur Kiri;29-03-2025;00:05 WIB;NASA-NOAA20;Medium;-2,87248;115,26361
+Kalimantan Selatan;KOTABARU;Kelumpang Hilir;Tarjun;21-04-2025;01:13 WIB;NASA-NOAA20;Medium;-3,27056;116,10378
+Kalimantan Selatan;KOTABARU;Kelumpang Hilir;Tarjun;29-03-2025;00:05 WIB;NASA-NOAA20;Medium;-3,27303;116,10443
+Kalimantan Selatan;KOTABARU;Kelumpang Hulu;Mangkirana;12-01-2025;13:09 WIB;NASA-NOAA20;Medium;-3,06535;115,85281
+Kalimantan Selatan;KOTABARU;Kelumpang Selatan;Suka Maju;02-03-2025;12:50 WIB;NASA-NOAA20;Medium;-3,13311;116,08834
+Kalimantan Selatan;KOTABARU;Kelumpang Tengah;Sembilang;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-2,89416;116,22395
+Kalimantan Selatan;KOTABARU;Pamukan Selatan;Tanjung Samalantakan;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,57403;116,3755
+Kalimantan Selatan;KOTABARU;Pulau Laut Utara;Sarang Tiung;28-04-2025;00:41 WIB;NASA-NOAA20;Medium;-3,21898;116,27791
+Kalimantan Selatan;KOTABARU;Pulau Sebuku;Sekapung;10-03-2025;11:59 WIB;NASA-NOAA20;Medium;-3,61324;116,36449
+Kalimantan Selatan;KOTABARU;Sampanahan;Basuang;09-03-2025;12:21 WIB;NASA-NOAA20;Medium;-2,60914;116,35002
+Kalimantan Selatan;KOTABARU;Sampanahan;Basuang;16-05-2025;12:44 WIB;NASA-NOAA20;Medium;-2,6205;116,33475
+Kalimantan Selatan;TABALONG;Haruai;Seradang;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-2,06114;115,5712
+Kalimantan Selatan;TABALONG;Haruai;Seradang;10-04-2025;01:19 WIB;NASA-NOAA20;Medium;-2,05889;115,57014
+Kalimantan Selatan;TABALONG;Haruai;Seradang;18-02-2025;00:36 WIB;NASA-NOAA20;Medium;-2,06238;115,56844
+Kalimantan Selatan;TABALONG;Haruai;Seradang;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-2,06077;115,5694
+Kalimantan Selatan;TABALONG;Haruai;Seradang;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,06067;115,57034
+Kalimantan Selatan;TABALONG;Haruai;Seradang;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-2,06141;115,5703
+Kalimantan Selatan;TABALONG;Muara Uya;Uwie;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,89873;115,53104
+Kalimantan Selatan;TABALONG;Murung Pudak;Kasiau;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-2,15948;115,49379
+Kalimantan Selatan;TABALONG;Murung Pudak;Kasiau;01-03-2025;00:30 WIB;NASA-NOAA20;Medium;-2,15991;115,4969
+Kalimantan Selatan;TABALONG;Murung Pudak;Kasiau;06-03-2025;00:36 WIB;NASA-NOAA20;Medium;-2,16001;115,49678
+Kalimantan Selatan;TABALONG;Murung Pudak;Kasiau;09-02-2025;00:04 WIB;NASA-NOAA20;Medium;-2,16071;115,49395
+Kalimantan Selatan;TABALONG;Murung Pudak;Kasiau;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-2,15885;115,49464
+Kalimantan Selatan;TABALONG;Murung Pudak;Kasiau;16-03-2025;00:47 WIB;NASA-NOAA20;Medium;-2,16017;115,49359
+Kalimantan Selatan;TABALONG;Murung Pudak;Kasiau;24-02-2025;00:24 WIB;NASA-NOAA20;Medium;-2,16197;115,49708
+Kalimantan Selatan;TABALONG;Murung Pudak;Maburai;02-05-2025;01:09 WIB;NASA-NOAA20;Medium;-2,20901;115,49376
+Kalimantan Selatan;TABALONG;Murung Pudak;Maburai;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-2,20916;115,49739
+Kalimantan Selatan;TABALONG;Murung Pudak;Maburai;12-01-2025;00:30 WIB;NASA-NOAA20;Medium;-2,20878;115,49528
+Kalimantan Selatan;TABALONG;Murung Pudak;Maburai;13-04-2025;00:24 WIB;NASA-NOAA20;Medium;-2,20951;115,49583
+Kalimantan Selatan;TABALONG;Murung Pudak;Maburai;24-04-2025;00:15 WIB;NASA-NOAA20;Medium;-2,20779;115,49671
+Kalimantan Selatan;TABALONG;Upau;Bilas;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-2,15326;115,58447
+Kalimantan Selatan;TABALONG;Upau;Bilas;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;-2,14381;115,59195
+Kalimantan Selatan;TABALONG;Upau;Bilas;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-2,14539;115,58732
+Kalimantan Selatan;TABALONG;Upau;Bilas;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,14353;115,58642
+Kalimantan Selatan;TABALONG;Upau;Kaong;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-2,06273;115,57024
+Kalimantan Selatan;TABALONG;Upau;Kaong;01-03-2025;00:30 WIB;NASA-NOAA20;Medium;-2,0632;115,57109
+Kalimantan Selatan;TABALONG;Upau;Kaong;02-05-2025;01:09 WIB;NASA-NOAA20;Medium;-2,06147;115,5712
+Kalimantan Selatan;TABALONG;Upau;Kaong;06-04-2025;00:54 WIB;NASA-NOAA20;Medium;-2,06247;115,56948
+Kalimantan Selatan;TABALONG;Upau;Kaong;15-02-2025;01:32 WIB;NASA-NOAA20;Medium;-2,0629;115,56974
+Kalimantan Selatan;TABALONG;Upau;Kaong;15-03-2025;01:09 WIB;NASA-NOAA20;Medium;-2,06354;115,57127
+Kalimantan Selatan;TABALONG;Upau;Kaong;18-02-2025;00:36 WIB;NASA-NOAA20;Medium;-2,06293;115,57192
+Kalimantan Selatan;TANAH BUMBU;Mantewe;Gunungraya;19-04-2025;12:50 WIB;NASA-NOAA20;Medium;-3,1324;115,6627
+Kalimantan Selatan;TANAH BUMBU;Mantewe;Gunungraya;27-03-2025;13:22 WIB;NASA-NOAA20;Medium;-3,12104;115,66476
+Kalimantan Selatan;TANAH BUMBU;Satui;Satui Barat;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-3,76258;115,43085
+Kalimantan Selatan;TANAH LAUT;Jorong;Asam-Asam;03-02-2025;12:57 WIB;NASA-NOAA20;Medium;-3,87666;115,0715
+Kalimantan Selatan;TANAH LAUT;Jorong;Jorong;03-02-2025;12:57 WIB;NASA-NOAA20;Medium;-3,99326;114,95039
+Kalimantan Selatan;TANAH LAUT;Jorong;Sabuhur;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-4,05709;114,7769
+Kalimantan Selatan;TANAH LAUT;Jorong;Swarangan;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;-4,04423;114,88172
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintap Kecil;03-02-2025;00:17 WIB;NASA-NOAA20;Medium;-3,84239;115,25207
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintap Kecil;05-04-2025;12:12 WIB;NASA-NOAA20;Medium;-3,86034;115,26119
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintap Kecil;09-02-2025;00:06 WIB;NASA-NOAA20;Medium;-3,84348;115,25108
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintap Kecil;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-3,84214;115,25402
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintap Kecil;19-02-2025;00:17 WIB;NASA-NOAA20;Medium;-3,84025;115,25164
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintapura;01-05-2025;01:26 WIB;NASA-NOAA20;Medium;-3,86175;115,19203
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintapura;03-05-2025;00:49 WIB;NASA-NOAA20;Medium;-3,86571;115,19382
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintapura;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-3,86561;115,19646
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintapura;05-05-2025;00:11 WIB;NASA-NOAA20;Medium;-3,86229;115,19453
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintapura;23-04-2025;00:37 WIB;NASA-NOAA20;Medium;-3,86493;115,19458
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintapura;29-04-2025;00:24 WIB;NASA-NOAA20;Medium;-3,86576;115,19296
+Kalimantan Selatan;TANAH LAUT;Kintap;Kintapura;30-04-2025;00:07 WIB;NASA-NOAA20;Medium;-3,86332;115,19434
+Kalimantan Selatan;TANAH LAUT;Panyipatan;Kandangan Lama;30-04-2025;12:44 WIB;NASA-NOAA20;Medium;-4,07953;114,69851
+Kalimantan Selatan;TAPIN;Bungur;Kalumpang;01-02-2025;00:56 WIB;NASA-NOAA20;Medium;-2,98669;115,21146
+Kalimantan Selatan;TAPIN;Bungur;Kalumpang;11-01-2025;00:49 WIB;NASA-NOAA20;Medium;-2,98632;115,21137
+Kalimantan Selatan;TAPIN;Bungur;Kalumpang;28-04-2025;00:41 WIB;NASA-NOAA20;Medium;-2,98815;115,2116
+Kalimantan Selatan;TAPIN;Lokpaikat;Binderang;19-05-2025;00:49 WIB;NASA-NOAA20;Medium;-2,94292;115,23025
+Kalimantan Selatan;TAPIN;Lokpaikat;Binderang;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-2,9443;115,23264
+Kalimantan Selatan;TAPIN;Lokpaikat;Binderang;25-05-2025;00:37 WIB;NASA-NOAA20;Medium;-2,94216;115,23204
+Kalimantan Selatan;TAPIN;Lokpaikat;Lokpaikat;02-05-2025;01:09 WIB;NASA-NOAA20;Medium;-2,93894;115,23798
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Kaman;26-04-2025;12:21 WIB;NASA-NOAA20;High;-1,33617;113,0807
+Kalimantan Tengah;BARITO TIMUR;Banua Lima;Gudang Seng;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;-2,21121;115,2947
+Kalimantan Tengah;BARITO TIMUR;Dusun Tengah;Sumber Garunggung;07-04-2025;13:16 WIB;NASA-NOAA20;Medium;-1,81741;115,21327
+Kalimantan Tengah;BARITO UTARA;Gunung Timang;Majangkan;07-01-2025;13:03 WIB;NASA-NOAA20;Medium;-1,14249;115,09983
+Kalimantan Tengah;BARITO UTARA;Gunung Timang;Majangkan;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-1,16532;115,08153
+Kalimantan Tengah;BARITO UTARA;Montallat;Kamawen;08-05-2025;00:54 WIB;NASA-NOAA20;Medium;-1,16348;114,76689
+Kalimantan Tengah;BARITO UTARA;Montallat;Kamawen;14-03-2025;12:25 WIB;NASA-NOAA20;Medium;-1,16768;114,78397
+Kalimantan Tengah;BARITO UTARA;Montallat;Pepas;09-05-2025;00:37 WIB;NASA-NOAA20;Medium;-1,28995;114,76219
+Kalimantan Tengah;BARITO UTARA;Montallat;Pepas;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-1,29222;114,76036
+Kalimantan Tengah;BARITO UTARA;Montallat;Ruji;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-1,19681;114,73688
+Kalimantan Tengah;BARITO UTARA;Montallat;Ruji;16-04-2025;01:09 WIB;NASA-NOAA20;Medium;-1,1976;114,7356
+Kalimantan Tengah;BARITO UTARA;Montallat;Ruji;17-02-2025;00:56 WIB;NASA-NOAA20;Medium;-1,19734;114,73382
+Kalimantan Tengah;BARITO UTARA;Montallat;Ruji;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-1,19656;114,73479
+Kalimantan Tengah;BARITO UTARA;Teweh Baru;Gandring;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-0,95232;115,17802
+Kalimantan Tengah;BARITO UTARA;Teweh Baru;Sikui;18-01-2025;12:59 WIB;NASA-NOAA20;Medium;-1,07323;115,07104
+Kalimantan Tengah;BARITO UTARA;Teweh Selatan;Bintang Ninggi I;28-02-2025;13:29 WIB;NASA-NOAA20;Medium;-1,03788;114,86146
+Kalimantan Tengah;BARITO UTARA;Teweh Tengah;Beringin Raya;18-01-2025;12:59 WIB;NASA-NOAA20;Medium;-0,91189;114,66366
+Kalimantan Tengah;BARITO UTARA;Teweh Tengah;Beringin Raya;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-0,93944;114,72552
+Kalimantan Tengah;BARITO UTARA;Teweh Tengah;Datai Nirui;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-0,93473;114,69281
+Kalimantan Tengah;BARITO UTARA;Teweh Tengah;Kelurahan Lanjas;25-02-2025;12:44 WIB;NASA-NOAA20;Medium;-0,91374;114,86064
+Kalimantan Tengah;BARITO UTARA;Teweh Tengah;Lemo II;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-1,00272;114,47531
+Kalimantan Tengah;BARITO UTARA;Teweh Timur;Mampuak I;15-05-2025;13:03 WIB;NASA-NOAA20;Medium;-1,13111;115,37132
+Kalimantan Tengah;GUNUNG MAS;Kurun;Tumbang Miwan;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-1,21947;113,84595
+Kalimantan Tengah;GUNUNG MAS;Manuhing;Bereng Jun;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,53467;113,53866
+Kalimantan Tengah;GUNUNG MAS;Manuhing;Tangki Dahuyan;11-04-2025;01:00 WIB;NASA-NOAA20;Medium;-1,30024;113,39245
+Kalimantan Tengah;GUNUNG MAS;Manuhing;Tangki Dahuyan;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-1,30056;113,39005
+Kalimantan Tengah;GUNUNG MAS;Manuhing;Tangki Dahuyan;22-04-2025;13:33 WIB;NASA-NOAA20;Medium;-1,33641;113,39874
+Kalimantan Tengah;GUNUNG MAS;Manuhing Raya;Kelurahan Tehang;22-04-2025;13:33 WIB;NASA-NOAA20;Medium;-1,18705;113,34791
+Kalimantan Tengah;GUNUNG MAS;Manuhing Raya;Tumbang Oroi;14-04-2025;12:44 WIB;NASA-NOAA20;Medium;-1,22504;113,18702
+Kalimantan Tengah;GUNUNG MAS;Manuhing Raya;Tumbang Samui;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-1,23486;113,37843
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;03-05-2025;00:47 WIB;NASA-NOAA20;Medium;-1,33027;113,96961
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;05-03-2025;00:53 WIB;NASA-NOAA20;Medium;-1,32675;113,96889
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;08-05-2025;00:54 WIB;NASA-NOAA20;Medium;-1,32787;113,96696
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;14-03-2025;01:26 WIB;NASA-NOAA20;Medium;-1,32922;113,96598
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;15-05-2025;00:24 WIB;NASA-NOAA20;Medium;-1,32983;113,96813
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;21-01-2025;01:02 WIB;NASA-NOAA20;Medium;-1,32658;113,96779
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-1,32762;113,9686
+Kalimantan Tengah;GUNUNG MAS;Mihing Raya;Kelurahan Kampuri;29-03-2025;00:05 WIB;NASA-NOAA20;Medium;-1,32595;113,96753
+Kalimantan Tengah;GUNUNG MAS;Rungan;Linau;18-03-2025;12:50 WIB;NASA-NOAA20;Medium;-1,24671;113,5875
+Kalimantan Tengah;GUNUNG MAS;Rungan;Tumbang Malahoi;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,23951;113,51265
+Kalimantan Tengah;GUNUNG MAS;Rungan Barat;Mangkawuk;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,18706;113,40437
+Kalimantan Tengah;GUNUNG MAS;Rungan Hulu;Jangkit;28-03-2025;13:03 WIB;NASA-NOAA20;Medium;-1,20705;113,51991
+Kalimantan Tengah;GUNUNG MAS;Rungan Hulu;Tumbang Lapan;06-03-2025;13:16 WIB;NASA-NOAA20;Medium;-1,15142;113,54458
+Kalimantan Tengah;GUNUNG MAS;Sepang;Rabauh;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,42135;113,93525
+Kalimantan Tengah;KAPUAS;Kapuas Tengah;Bajuh;02-03-2025;12:52 WIB;NASA-NOAA20;Medium;-1,26337;114,25292
+Kalimantan Tengah;KAPUAS;Kapuas Tengah;Bajuh;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-1,29129;114,25792
+Kalimantan Tengah;KAPUAS;Kapuas Tengah;Karukus;12-03-2025;13:03 WIB;NASA-NOAA20;Medium;-1,12114;114,34297
+Kalimantan Tengah;KAPUAS;Kapuas Tengah;Kayu Bulan;19-03-2025;12:31 WIB;NASA-NOAA20;Medium;-1,43982;114,46928
+Kalimantan Tengah;KAPUAS;Kapuas Tengah;Kayu Bulan;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-1,51639;114,39395
+Kalimantan Tengah;KAPUAS;Mandau Talawang;Masaha;19-05-2025;13:29 WIB;NASA-NOAA20;Medium;-0,83929;114,02678
+Kalimantan Tengah;KAPUAS;Mandau Talawang;Sei Pinang;12-04-2025;13:22 WIB;NASA-NOAA20;Medium;-0,80996;114,03572
+Kalimantan Tengah;KAPUAS;Mantangai;Danau Rawah;21-05-2025;12:53 WIB;NASA-NOAA20;Medium;-1,94691;114,38396
+Kalimantan Tengah;KAPUAS;Mantangai;Humbang Raya;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-1,76162;113,98102
+Kalimantan Tengah;KAPUAS;Mantangai;Lahei Mangkutup;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-1,9812;114,24432
+Kalimantan Tengah;KAPUAS;Mantangai;Sei Kapar;14-05-2025;13:22 WIB;NASA-NOAA20;Medium;-2,63457;114,40399
+Kalimantan Tengah;KAPUAS;Mantangai;Tumbang Mangkutup;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-2,20092;114,38074
+Kalimantan Tengah;KAPUAS;Pasak Talawang;Jangkang;18-01-2025;12:59 WIB;NASA-NOAA20;Medium;-1,16639;114,18393
+Kalimantan Tengah;KAPUAS;Pasak Talawang;Kaburan;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,15025;114,18102
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-1,45792;114,58369
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;08-05-2025;00:54 WIB;NASA-NOAA20;Medium;-1,52079;114,55296
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;12-03-2025;00:24 WIB;NASA-NOAA20;Medium;-1,45618;114,58422
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;15-05-2025;00:24 WIB;NASA-NOAA20;Medium;-1,45424;114,58456
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;16-04-2025;01:09 WIB;NASA-NOAA20;Medium;-1,45575;114,58551
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;17-01-2025;00:36 WIB;NASA-NOAA20;Medium;-1,45695;114,58616
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-1,45463;114,58501
+Kalimantan Tengah;KAPUAS;Timpah;Batapah;25-05-2025;00:37 WIB;NASA-NOAA20;Medium;-1,4555;114,58542
+Kalimantan Tengah;KAPUAS;Timpah;Lungkuh Layang;16-05-2025;12:44 WIB;NASA-NOAA20;Medium;-1,68129;114,4564
+Kalimantan Tengah;KATINGAN;Katingan Hulu;Kelurahan Tumbang Sanamang;28-03-2025;13:03 WIB;NASA-NOAA20;Medium;-1,17351;112,43446
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Batu Badinding;12-04-2025;13:22 WIB;NASA-NOAA20;Medium;-1,47771;113,03588
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Rantau Asem;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,38371;113,00664
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Samba Bakumpai;19-02-2025;12:59 WIB;NASA-NOAA20;Medium;-1,43463;113,11591
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tewang Panjang;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-1,51809;113,10598
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tewang Panjang;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-1,45647;113,18764
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tumbang Hangei;03-05-2025;00:47 WIB;NASA-NOAA20;Medium;-1,36231;112,81502
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tumbang Hangei;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-1,36462;112,8147
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tumbang Hangei;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-1,36515;112,81298
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tumbang Hangei;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-1,36231;112,81227
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tumbang Hangei;24-05-2025;13:35 WIB;NASA-NOAA20;Medium;-1,36452;112,81332
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tumbang Lahang;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-1,61017;113,10249
+Kalimantan Tengah;KATINGAN;Katingan Tengah;Tumbang Marak;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,35946;112,93327
+Kalimantan Tengah;KATINGAN;Marikit;Tumbang Bemban;05-05-2025;12:53 WIB;NASA-NOAA20;Medium;-1,16786;112,62331
+Kalimantan Tengah;KATINGAN;Marikit;Tumbang Lambi;19-04-2025;12:50 WIB;NASA-NOAA20;Medium;-1,13084;112,6387
+Kalimantan Tengah;KATINGAN;Pulau Malan;Manduing Taheta;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-1,62378;113,33829
+Kalimantan Tengah;KATINGAN;Pulau Malan;Tewang Karangan;13-05-2025;11:59 WIB;NASA-NOAA20;Medium;-1,51237;113,34982
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Kamanto;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,28392;113,02749
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Kamanto;26-04-2025;12:21 WIB;NASA-NOAA20;Medium;-1,28722;112,99691
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Kuluk Habuhus;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-1,23787;112,96079
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Labehu;12-03-2025;13:03 WIB;NASA-NOAA20;Medium;-1,33548;113,13596
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,30153;113,12074
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;08-05-2025;00:54 WIB;NASA-NOAA20;Medium;-1,3249;113,10047
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;11-02-2025;01:08 WIB;NASA-NOAA20;Medium;-1,30826;113,07584
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-1,31918;113,10086
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;14-03-2025;01:26 WIB;NASA-NOAA20;Medium;-1,30997;113,07816
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;16-02-2025;01:13 WIB;NASA-NOAA20;Medium;-1,30869;113,06921
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;24-04-2025;00:15 WIB;NASA-NOAA20;Medium;-1,31012;113,08115
+Kalimantan Tengah;KATINGAN;Sanaman Mantikei;Tumbang Manggo;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-1,30922;113,0751
+Kalimantan Tengah;KATINGAN;Tewang Sangalang Garing;Karya Unggang;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-1,76478;113,1183
+Kalimantan Tengah;KATINGAN;Tewang Sangalang Garing;Tewang Rangkang;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,73082;113,17498
+Kalimantan Tengah;KOTA PALANGKARAYA;Sabangau;Kelurahan Sabaru;06-01-2025;13:22 WIB;NASA-NOAA20;Medium;-2,31079;113,95801
+Kalimantan Tengah;KOTAWARINGIN BARAT;Arut Selatan;Kenambui;02-02-2025;13:16 WIB;NASA-NOAA20;Medium;-2,34315;111,65582
+Kalimantan Tengah;KOTAWARINGIN BARAT;Arut Selatan;Pasir Panjang;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,83457;111,55498
+Kalimantan Tengah;KOTAWARINGIN BARAT;Arut Selatan;Rangda;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-2,50126;111,59857
+Kalimantan Tengah;KOTAWARINGIN BARAT;Arut Selatan;Runtu;27-03-2025;13:22 WIB;NASA-NOAA20;Medium;-2,34406;111,71697
+Kalimantan Tengah;KOTAWARINGIN BARAT;Kotawaringin Lama;Rungun;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-2,36333;111,41351
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Antang Kalang;Tumbang Kalang;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,50498;112,68991
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Antang Kalang;Tumbang Manya;02-05-2025;01:09 WIB;NASA-NOAA20;Medium;-1,51205;112,5712
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Antang Kalang;Tumbang Manya;14-03-2025;01:26 WIB;NASA-NOAA20;Medium;-1,51182;112,57188
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Antang Kalang;Tumbang Sepayang;25-05-2025;13:16 WIB;NASA-NOAA20;Medium;-1,58151;112,57507
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tanah Haluan;05-01-2025;13:39 WIB;NASA-NOAA20;Medium;-1,90291;112,35633
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tewai Hara;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-1,86385;112,26633
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Kaminting;28-03-2025;13:01 WIB;NASA-NOAA20;Medium;-1,89078;112,38951
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Payang;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-1,82988;112,24938
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Payang;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;-1,83055;112,2505
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Penyahuan;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,83866;112,35751
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Penyahuan;04-02-2025;12:37 WIB;NASA-NOAA20;Medium;-1,85772;112,3624
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Penyahuan;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-1,89382;112,35265
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Penyahuan;28-03-2025;13:01 WIB;NASA-NOAA20;Medium;-1,80465;112,42641
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Cempaga Hulu;Keruing;19-02-2025;12:59 WIB;NASA-NOAA20;Medium;-2,08682;113,02016
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Cempaga Hulu;Sudan;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-2,13573;113,02876
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Kota Besi;Palangan;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-2,36403;112,7607
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Utara;Bagendang Tengah;21-05-2025;12:50 WIB;NASA-NOAA20;Medium;-2,74149;112,85947
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hulu;Kapuk;07-05-2025;12:14 WIB;NASA-NOAA20;Medium;-2,13324;112,41393
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hulu;Kapuk;08-05-2025;13:33 WIB;NASA-NOAA20;Medium;-2,12725;112,41277
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hulu;Santilik;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-1,97465;112,57761
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hulu;Tanjung Jariangau;02-02-2025;13:16 WIB;NASA-NOAA20;Medium;-1,88594;112,62899
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hulu;Tanjung Jariangau;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-1,88721;112,52865
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hulu;Tanjung Jariangau;17-01-2025;13:16 WIB;NASA-NOAA20;Medium;-1,8952;112,53181
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telaga Antang;Bukit Indah;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-1,6084;112,53224
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telaga Antang;Bukit Indah;24-04-2025;00:15 WIB;NASA-NOAA20;Medium;-1,60677;112,51789
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telaga Antang;Tumbang Bajanei;05-05-2025;12:50 WIB;NASA-NOAA20;Medium;-1,69417;112,55283
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telaga Antang;Tumbang Bajanei;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-1,69086;112,53339
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telaga Antang;Tumbang Boloi;05-05-2025;12:50 WIB;NASA-NOAA20;Medium;-1,68262;112,56178
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telawang;Kenyala;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;-2,30262;112,66306
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telawang;Kenyala;08-05-2025;13:33 WIB;NASA-NOAA20;Medium;-2,29626;112,65403
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telawang;Sebabi;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-2,16815;112,51157
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Bukit Makmur;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;-1,78155;112,66086
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Damar Makmur;28-03-2025;13:01 WIB;NASA-NOAA20;Medium;-1,71134;112,82562
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Luwuk Sampun;06-03-2025;13:16 WIB;NASA-NOAA20;Medium;-1,72799;112,79903
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Sebungsu;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,86094;112,78671
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Tanjung Jorong;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,63632;112,81131
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Tanjung Jorong;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-1,62186;112,75874
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Tanjung Jorong;13-05-2025;13:42 WIB;NASA-NOAA20;Medium;-1,67824;112,73566
+Kalimantan Tengah;LAMANDAU;Batang Kawa;Karang Mas;07-02-2025;13:22 WIB;NASA-NOAA20;Medium;-1,53491;111,18136
+Kalimantan Tengah;LAMANDAU;Belantikan Raya;Bayat;12-04-2025;13:22 WIB;NASA-NOAA20;Medium;-1,78982;111,44407
+Kalimantan Tengah;LAMANDAU;Bulik;Tamiang;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-2,05279;111,29965
+Kalimantan Tengah;LAMANDAU;Bulik Timur;Nuangan;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;-1,91828;111,51453
+Kalimantan Tengah;LAMANDAU;Bulik Timur;Pedongatan;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-1,65522;111,56438
+Kalimantan Tengah;LAMANDAU;Bulik Timur;Pedongatan;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-1,78075;111,55145
+Kalimantan Tengah;LAMANDAU;Delang;Kelurahan Kudangan;10-02-2025;12:27 WIB;NASA-NOAA20;Medium;-1,58252;111,01533
+Kalimantan Tengah;LAMANDAU;Delang;Kubung;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,62343;110,94624
+Kalimantan Tengah;LAMANDAU;Lamandau;Bakonsu;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-1,93755;111,3833
+Kalimantan Tengah;LAMANDAU;Lamandau;Bakonsu;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-2,00528;111,27445
+Kalimantan Tengah;LAMANDAU;Lamandau;Kelurahan Tapin Bini;05-01-2025;13:41 WIB;NASA-NOAA20;Medium;-1,85563;111,32871
+Kalimantan Tengah;LAMANDAU;Lamandau;Penopa;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-2,11726;111,07249
+Kalimantan Tengah;LAMANDAU;Lamandau;Penopa;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,01644;111,15025
+Kalimantan Tengah;LAMANDAU;Lamandau;Suja;05-01-2025;13:41 WIB;NASA-NOAA20;Medium;-1,87388;111,25288
+Kalimantan Tengah;LAMANDAU;Lamandau;Suja;13-05-2025;13:42 WIB;NASA-NOAA20;Medium;-1,87545;111,27003
+Kalimantan Tengah;LAMANDAU;Lamandau;Tanjung Beringin;06-01-2025;13:22 WIB;NASA-NOAA20;Medium;-1,8;111,04991
+Kalimantan Tengah;LAMANDAU;Lamandau;Tanjung Beringin;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-1,79629;111,04702
+Kalimantan Tengah;LAMANDAU;Menthobi Raya;Topalan;18-02-2025;13:16 WIB;NASA-NOAA20;Medium;-1,9964;111,71267
+Kalimantan Tengah;MURUNG RAYA;Laung Tuhup;Kelurahan Muara Laung I;15-05-2025;00:24 WIB;NASA-NOAA20;Medium;-0,69343;114,72561
+Kalimantan Tengah;MURUNG RAYA;Laung Tuhup;Kelurahan Muara Laung I;25-05-2025;00:37 WIB;NASA-NOAA20;Medium;-0,69278;114,724
+Kalimantan Tengah;MURUNG RAYA;Murung;Muara Ja'an;18-01-2025;12:59 WIB;NASA-NOAA20;Medium;-0,76476;114,59232
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Paduran Sebangau;01-05-2025;01:26 WIB;NASA-NOAA20;Medium;-3,02446;113,75336
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Paduran Sebangau;02-02-2025;00:36 WIB;NASA-NOAA20;Medium;-3,03246;113,85744
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Paduran Sebangau;02-05-2025;01:09 WIB;NASA-NOAA20;Medium;-3,02434;113,75534
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Paduran Sebangau;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-3,02552;113,75684
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Paduran Sebangau;09-02-2025;00:06 WIB;NASA-NOAA20;Medium;-3,02858;113,85554
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Paduran Sebangau;11-01-2025;00:49 WIB;NASA-NOAA20;Medium;-3,03112;113,85633
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Paduran Sebangau;19-05-2025;00:49 WIB;NASA-NOAA20;Medium;-3,02242;113,75525
+Kalimantan Tengah;PULANG PISAU;Sebangau Kuala;Sei Hambawang;12-02-2025;13:29 WIB;NASA-NOAA20;Medium;-3,1553;113,89027
+Kalimantan Tengah;SERUYAN;Danau Seluluk;Panimba Raya;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-2,36047;112,19672
+Kalimantan Tengah;SERUYAN;Danau Seluluk;Tanjung Hara;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-2,37907;112,23005
+Kalimantan Tengah;SERUYAN;Danau Seluluk;Tanjung Paring;08-02-2025;13:03 WIB;NASA-NOAA20;Medium;-2,36395;112,19724
+Kalimantan Tengah;SERUYAN;Danau Sembuluh;Cempaka Baru;19-04-2025;12:50 WIB;NASA-NOAA20;Medium;-2,78819;112,28641
+Kalimantan Tengah;SERUYAN;Danau Sembuluh;Sembuluh II;10-05-2025;12:57 WIB;NASA-NOAA20;Medium;-2,71849;112,34785
+Kalimantan Tengah;SERUYAN;Hanau;Pembuang Hulu I;08-05-2025;00:56 WIB;NASA-NOAA20;Medium;-2,46842;112,03571
+Kalimantan Tengah;SERUYAN;Hanau;Pembuang Hulu I;13-05-2025;01:02 WIB;NASA-NOAA20;Medium;-2,46668;112,03356
+Kalimantan Tengah;SERUYAN;Hanau;Pembuang Hulu I;19-05-2025;00:49 WIB;NASA-NOAA20;Medium;-2,46542;112,03327
+Kalimantan Tengah;SERUYAN;Seruyan Hilir;Baung;02-02-2025;13:16 WIB;NASA-NOAA20;Medium;-2,88157;112,2572
+Kalimantan Tengah;SERUYAN;Seruyan Hilir;Pematang Limau;30-04-2025;12:44 WIB;NASA-NOAA20;Medium;-3,26012;112,21905
+Kalimantan Tengah;SERUYAN;Seruyan Hilir;Sungai Perlu;30-04-2025;12:44 WIB;NASA-NOAA20;Medium;-3,28772;112,23158
+Kalimantan Tengah;SERUYAN;Seruyan Hilir Timur;Mekar Indah;09-02-2025;12:44 WIB;NASA-NOAA20;Medium;-3,18782;112,512
+Kalimantan Tengah;SERUYAN;Seruyan Hulu;Tumbang Setawai;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-0,966;112,05571
+Kalimantan Tengah;SERUYAN;Seruyan Tengah;Ayawan;05-05-2025;12:50 WIB;NASA-NOAA20;Medium;-1,98445;112,24901
+Kalimantan Tengah;SERUYAN;Seruyan Tengah;Mugi Panyuhu;10-04-2025;12:21 WIB;NASA-NOAA20;Medium;-1,95715;112,2474
+Kalimantan Tengah;SERUYAN;Seruyan Tengah;Panyompa;03-05-2025;13:29 WIB;NASA-NOAA20;Medium;-1,851;112,05887
+Kalimantan Tengah;SERUYAN;Seruyan Tengah;Panyompa;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,84185;112,05182
+Kalimantan Tengah;SERUYAN;Seruyan Tengah;Panyompa;17-01-2025;13:16 WIB;NASA-NOAA20;Medium;-1,82945;112,02018
+Kalimantan Tengah;SERUYAN;Seruyan Tengah;Suka Mandang;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-2,07241;112,19468
+Kalimantan Tengah;SERUYAN;Seruyan Tengah;Tumbang Bai;13-02-2025;13:09 WIB;NASA-NOAA20;Medium;-1,93001;112,19553
+Kalimantan Tengah;SUKAMARA;Balai Riam;Air Dua;27-03-2025;13:22 WIB;NASA-NOAA20;Medium;-2,37325;111,15356
+Kalimantan Tengah;SUKAMARA;Balai Riam;Balai Riam;26-03-2025;13:40 WIB;NASA-NOAA20;Medium;-2,34552;111,12593
+Kalimantan Tengah;SUKAMARA;Sukamara;Kartamulia;01-05-2025;12:25 WIB;NASA-NOAA20;Medium;-2,67965;111,31018
+Kalimantan Tengah;SUKAMARA;Sukamara;Kartamulia;17-04-2025;13:29 WIB;NASA-NOAA20;Medium;-2,68494;111,30835
+Kalimantan Tengah;BARITO UTARA;Teweh Baru;Sikui;09-03-2025;13:48 WIB;NASA-MODIS;High;-1,10961;115,07586
+Kalimantan Tengah;GUNUNG MAS;Rungan Barat;Tumbang Jalemu Kajuei;26-04-2025;13:59 WIB;NASA-MODIS;High;-1,26145;113,44427
+Kalimantan Tengah;KATINGAN;Tewang Sangalang Garing;Kelurahan Pendahara;27-03-2025;14:07 WIB;NASA-MODIS;High;-1,7329;113,34081
+Kalimantan Tengah;MURUNG RAYA;Permata Intan;Sungai Bakanon;19-05-2025;14:12 WIB;NASA-MODIS;High;-0,80599;114,22579
+Kalimantan Tengah;SUKAMARA;Sukamara;Kartamulia;27-03-2025;14:07 WIB;NASA-MODIS;High;-2,75629;111,26155
+Kalimantan Timur;BERAU;Kelay;Merapun;09-05-2025;13:16 WIB;NASA-NOAA20;High;1,47317;117,24786
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Badak;Salo Cella;27-04-2025;11:59 WIB;NASA-NOAA20;High;-0,24253;117,3299
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Mugi Rahayu;18-04-2025;13:10 WIB;NASA-NOAA20;High;0,79602;117,03983
+Kalimantan Timur;KUTAI TIMUR;Muara Wahau;Nehes Liah Bing;03-03-2025;12:31 WIB;NASA-NOAA20;High;1,35848;116,65784
+Kalimantan Timur;KUTAI TIMUR;Rantau Pulung;Kebon Agung;18-04-2025;13:10 WIB;NASA-NOAA20;High;0,59622;117,20737
+Kalimantan Timur;KUTAI TIMUR;Telen;Long Segar;18-04-2025;13:10 WIB;NASA-NOAA20;High;0,81983;117,01973
+Kalimantan Timur;BERAU;Kelay;Merapun;05-05-2025;12:53 WIB;NASA-NOAA20;Medium;1,4715;117,24911
+Kalimantan Timur;BERAU;Kelay;Merapun;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;1,47703;117,24789
+Kalimantan Timur;BERAU;Kelay;Merapun;14-05-2025;13:22 WIB;NASA-NOAA20;Medium;1,36177;117,21405
+Kalimantan Timur;BERAU;Kelay;Merapun;21-04-2025;12:14 WIB;NASA-NOAA20;Medium;1,43936;117,25673
+Kalimantan Timur;BERAU;Kelay;Merapun;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;1,37697;117,20867
+Kalimantan Timur;BERAU;Kelay;Muara Lesan;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;1,64306;117,18923
+Kalimantan Timur;BERAU;Kelay;Muara Lesan;14-05-2025;00:41 WIB;NASA-NOAA20;Medium;1,6605;117,19244
+Kalimantan Timur;BERAU;Pulau Derawan;Tanjung Batu;22-05-2025;12:33 WIB;NASA-NOAA20;Medium;2,33078;118,01334
+Kalimantan Timur;BERAU;Pulau Derawan;Teluk Semanting;11-05-2025;12:40 WIB;NASA-NOAA20;Medium;2,23072;117,97492
+Kalimantan Timur;BERAU;Pulau Derawan;Teluk Semanting;19-02-2025;12:59 WIB;NASA-NOAA20;Medium;2,35636;117,93671
+Kalimantan Timur;BERAU;Sambaliung;Bena Baru;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;1,93772;117,22269
+Kalimantan Timur;BERAU;Sambaliung;Long Lanuk;16-05-2025;12:46 WIB;NASA-NOAA20;Medium;1,93108;117,23045
+Kalimantan Timur;BERAU;Sambaliung;Sukan Tengah;27-04-2025;12:01 WIB;NASA-NOAA20;Medium;2,12702;117,65414
+Kalimantan Timur;BERAU;Sambaliung;Tumbit Dayak;16-05-2025;12:46 WIB;NASA-NOAA20;Medium;1,9317;117,23457
+Kalimantan Timur;BERAU;Segah;Gunung Sari;11-05-2025;12:40 WIB;NASA-NOAA20;Medium;2,26879;117,18729
+Kalimantan Timur;BERAU;Segah;Long Ayan;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;2,20616;116,92254
+Kalimantan Timur;BERAU;Segah;Long Ayan;22-04-2025;11:55 WIB;NASA-NOAA20;Medium;2,32019;116,98672
+Kalimantan Timur;BERAU;Tabalar;Buyung-Buyung;01-01-2025;11:36 WIB;NASA-NOAA20;Medium;1,87036;117,8034
+Kalimantan Timur;BERAU;Tabalar;Buyung-Buyung;03-04-2025;12:53 WIB;NASA-NOAA20;Medium;1,84581;117,82543
+Kalimantan Timur;BERAU;Tabalar;Buyung-Buyung;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;1,89327;117,79067
+Kalimantan Timur;BERAU;Tabalar;Tabalar Muara;03-04-2025;12:50 WIB;NASA-NOAA20;Medium;1,7612;117,926
+Kalimantan Timur;BERAU;Tabalar;Tubaan;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;1,77987;117,9147
+Kalimantan Timur;BERAU;Talisayan;Capuak;03-01-2025;12:37 WIB;NASA-NOAA20;Medium;1,48463;118,22752
+Kalimantan Timur;BERAU;Teluk Bayur;Labanan Makarti;09-04-2025;12:38 WIB;NASA-NOAA20;Medium;2,05086;117,33524
+Kalimantan Timur;BERAU;Teluk Bayur;Labanan Makmur;04-03-2025;12:14 WIB;NASA-NOAA20;Medium;1,9986;117,20527
+Kalimantan Timur;BERAU;Teluk Bayur;Tumbit Melayu;04-03-2025;12:14 WIB;NASA-NOAA20;Medium;1,97367;117,20223
+Kalimantan Timur;BERAU;Teluk Bayur;Tumbit Melayu;08-04-2025;12:57 WIB;NASA-NOAA20;Medium;2,00283;117,21854
+Kalimantan Timur;KOTA BALIKPAPAN;Balikpapan Tengah;Kelurahan Karang Jati;01-05-2025;01:26 WIB;NASA-NOAA20;Medium;-1,24403;116,81747
+Kalimantan Timur;KOTA BALIKPAPAN;Balikpapan Tengah;Kelurahan Karang Jati;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-1,24691;116,8164
+Kalimantan Timur;KOTA BALIKPAPAN;Balikpapan Tengah;Kelurahan Karang Jati;07-04-2025;13:16 WIB;NASA-NOAA20;Medium;-1,2479;116,81806
+Kalimantan Timur;KOTA BALIKPAPAN;Balikpapan Tengah;Kelurahan Karang Jati;14-04-2025;12:44 WIB;NASA-NOAA20;Medium;-1,24843;116,81623
+Kalimantan Timur;KOTA BALIKPAPAN;Balikpapan Tengah;Kelurahan Karang Jati;15-05-2025;13:03 WIB;NASA-NOAA20;Medium;-1,24911;116,81657
+Kalimantan Timur;KOTA BALIKPAPAN;Balikpapan Tengah;Kelurahan Karang Jati;25-03-2025;01:19 WIB;NASA-NOAA20;Medium;-1,24392;116,81727
+Kalimantan Timur;KOTA BALIKPAPAN;Balikpapan Tengah;Kelurahan Karang Jati;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-1,24517;116,81609
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Bontang Lestari;08-05-2025;11:53 WIB;NASA-NOAA20;Medium;0,05107;117,42986
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;03-05-2025;00:47 WIB;NASA-NOAA20;Medium;0,10847;117,47334
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;05-05-2025;23:52 WIB;NASA-NOAA20;Medium;0,10657;117,47359
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;07-05-2025;01:13 WIB;NASA-NOAA20;Medium;0,10993;117,47164
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;0,09535;117,47751
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;0,10521;117,47242
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;16-05-2025;23:45 WIB;NASA-NOAA20;Medium;0,09779;117,46793
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;17-02-2025;00:53 WIB;NASA-NOAA20;Medium;0,10757;117,47335
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;18-04-2025;00:28 WIB;NASA-NOAA20;Medium;0,10875;117,47148
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;19-01-2025;12:37 WIB;NASA-NOAA20;Medium;0,09538;117,47648
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;0,09603;117,47826
+Kalimantan Timur;KOTA BONTANG;Bontang Selatan;Kelurahan Satimpo;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;0,10689;117,47169
+Kalimantan Timur;KOTA BONTANG;Bontang Utara;Kelurahan Guntung;05-01-2025;01:00 WIB;NASA-NOAA20;Medium;0,18394;117,48294
+Kalimantan Timur;KOTA SAMARINDA;Samarinda Utara;Kelurahan Sungai Siring;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-0,44618;117,26043
+Kalimantan Timur;KUTAI BARAT;Bentian Besar;Suakong;13-03-2025;12:44 WIB;NASA-NOAA20;Medium;-0,81533;115,71967
+Kalimantan Timur;KUTAI BARAT;Bongan;Jambuk;01-01-2025;00:36 WIB;NASA-NOAA20;Medium;-0,69386;116,2606
+Kalimantan Timur;KUTAI BARAT;Bongan;Muara Siram;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-0,80959;116,11549
+Kalimantan Timur;KUTAI BARAT;Bongan;Muara Siram;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-0,83955;116,21676
+Kalimantan Timur;KUTAI BARAT;Bongan;Muara Siram;26-04-2025;12:21 WIB;NASA-NOAA20;Medium;-0,83565;116,21812
+Kalimantan Timur;KUTAI BARAT;Bongan;Penawai;19-01-2025;12:37 WIB;NASA-NOAA20;Medium;-0,6879;116,20456
+Kalimantan Timur;KUTAI BARAT;Bongan;Siram Jaya;18-01-2025;12:59 WIB;NASA-NOAA20;Medium;-0,71339;116,19941
+Kalimantan Timur;KUTAI BARAT;Damai;Muara Bomboy;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-0,49215;115,69323
+Kalimantan Timur;KUTAI BARAT;Jempang;Bekokong Makmur;04-05-2025;13:10 WIB;NASA-NOAA20;Medium;-0,72099;116,10842
+Kalimantan Timur;KUTAI BARAT;Jempang;Muara Nayan;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-0,56502;116,10757
+Kalimantan Timur;KUTAI BARAT;Jempang;Pulau Lanting;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-0,54483;116,18604
+Kalimantan Timur;KUTAI BARAT;Jempang;Pulau Lanting;07-04-2025;13:16 WIB;NASA-NOAA20;Medium;-0,50022;116,1899
+Kalimantan Timur;KUTAI BARAT;Jempang;Pulau Lanting;14-03-2025;12:25 WIB;NASA-NOAA20;Medium;-0,52685;116,19063
+Kalimantan Timur;KUTAI BARAT;Jempang;Pulau Lanting;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-0,47704;116,24629
+Kalimantan Timur;KUTAI BARAT;Jempang;Tanjung Isuy;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-0,52454;116,11716
+Kalimantan Timur;KUTAI BARAT;Jempang;Tanjung Jone;04-02-2025;12:37 WIB;NASA-NOAA20;Medium;-0,46643;116,074
+Kalimantan Timur;KUTAI BARAT;Jempang;Tanjung Jone;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-0,46933;116,0786
+Kalimantan Timur;KUTAI BARAT;Jempang;Tanjung Jone;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;-0,46154;116,12596
+Kalimantan Timur;KUTAI BARAT;Jempang;Tanjung Jone;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;-0,47372;116,08607
+Kalimantan Timur;KUTAI BARAT;Linggang Bigung;Linggang Amer;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;-0,1418;115,66455
+Kalimantan Timur;KUTAI BARAT;Linggang Bigung;Linggang Melapeh;12-03-2025;13:03 WIB;NASA-NOAA20;Medium;-0,16557;115,60069
+Kalimantan Timur;KUTAI BARAT;Siluq Ngurai;Muara Ponaq;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;-0,64261;115,9828
+Kalimantan Timur;KUTAI BARAT;Siluq Ngurai;Tendiq;14-03-2025;12:25 WIB;NASA-NOAA20;Medium;-0,74967;115,87923
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;05-05-2025;00:09 WIB;NASA-NOAA20;Medium;-0,58348;117,38437
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;06-01-2025;00:41 WIB;NASA-NOAA20;Medium;-0,58251;117,38503
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;07-01-2025;00:21 WIB;NASA-NOAA20;Medium;-0,58236;117,38636
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;-0,58084;117,3874
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;08-05-2025;00:54 WIB;NASA-NOAA20;Medium;-0,58449;117,38437
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;09-05-2025;00:37 WIB;NASA-NOAA20;Medium;-0,58315;117,38734
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;10-01-2025;01:08 WIB;NASA-NOAA20;Medium;-0,5828;117,3843
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;-0,58176;117,3866
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-0,58269;117,38781
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;12-04-2025;00:41 WIB;NASA-NOAA20;Medium;-0,5814;117,38525
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;13-02-2025;00:30 WIB;NASA-NOAA20;Medium;-0,58373;117,38523
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;13-04-2025;00:22 WIB;NASA-NOAA20;Medium;-0,58386;117,38459
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;14-05-2025;00:41 WIB;NASA-NOAA20;Medium;-0,58228;117,38579
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;15-03-2025;01:06 WIB;NASA-NOAA20;Medium;-0,58199;117,38449
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;17-01-2025;00:36 WIB;NASA-NOAA20;Medium;-0,58314;117,38573
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;18-01-2025;00:15 WIB;NASA-NOAA20;Medium;-0,58121;117,38612
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;19-04-2025;00:09 WIB;NASA-NOAA20;Medium;-0,58106;117,38489
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-0,58187;117,3842
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-0,58154;117,38729
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;24-05-2025;00:54 WIB;NASA-NOAA20;Medium;-0,58437;117,38396
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;25-05-2025;00:37 WIB;NASA-NOAA20;Medium;-0,58438;117,38551
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-0,58122;117,38445
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Handil Terusan;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;-0,58215;117,38707
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Kutai Lama;07-01-2025;00:21 WIB;NASA-NOAA20;Medium;-0,49614;117,29807
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Kutai Lama;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;-0,49416;117,29944
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Kutai Lama;13-04-2025;00:22 WIB;NASA-NOAA20;Medium;-0,49806;117,29888
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Kutai Lama;19-04-2025;00:09 WIB;NASA-NOAA20;Medium;-0,49861;117,29708
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Muara Pantuan;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;-0,68817;117,49654
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Muara Pantuan;17-05-2025;12:25 WIB;NASA-NOAA20;Medium;-0,68954;117,5005
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Muara Pantuan;18-05-2025;01:09 WIB;NASA-NOAA20;Medium;-0,68916;117,49887
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Sepatin;08-05-2025;11:53 WIB;NASA-NOAA20;Medium;-0,76413;117,44069
+Kalimantan Timur;KUTAI KARTANEGARA;Anggana;Tani Baru;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;-0,46619;117,58731
+Kalimantan Timur;KUTAI KARTANEGARA;Kembang Janggut;Hambau;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;0,2503;116,43475
+Kalimantan Timur;KUTAI KARTANEGARA;Kembang Janggut;Kembang Janggut;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;0,26489;116,35887
+Kalimantan Timur;KUTAI KARTANEGARA;Kembang Janggut;Long Beleh Modang;10-03-2025;01:00 WIB;NASA-NOAA20;Medium;0,47129;116,2635
+Kalimantan Timur;KUTAI KARTANEGARA;Kota Bangun;Loleng;04-02-2025;12:37 WIB;NASA-NOAA20;Medium;-0,31071;116,69707
+Kalimantan Timur;KUTAI KARTANEGARA;Loa Janan;Batuah;09-05-2025;00:37 WIB;NASA-NOAA20;Medium;-0,70057;117,0341
+Kalimantan Timur;KUTAI KARTANEGARA;Loa Janan;Batuah;17-01-2025;00:36 WIB;NASA-NOAA20;Medium;-0,69858;117,12746
+Kalimantan Timur;KUTAI KARTANEGARA;Loa Janan;Batuah;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-0,70322;117,0348
+Kalimantan Timur;KUTAI KARTANEGARA;Marang Kayu;Santan Ulu;16-02-2025;12:14 WIB;NASA-NOAA20;Medium;-0,00522;117,42204
+Kalimantan Timur;KUTAI KARTANEGARA;Marang Kayu;Sebuntal;04-05-2025;00:30 WIB;NASA-NOAA20;Medium;-0,14014;117,36836
+Kalimantan Timur;KUTAI KARTANEGARA;Marang Kayu;Sebuntal;08-02-2025;00:24 WIB;NASA-NOAA20;Medium;-0,1419;117,369
+Kalimantan Timur;KUTAI KARTANEGARA;Marang Kayu;Sebuntal;18-05-2025;01:09 WIB;NASA-NOAA20;Medium;-0,14064;117,366
+Kalimantan Timur;KUTAI KARTANEGARA;Marang Kayu;Sebuntal;19-01-2025;12:37 WIB;NASA-NOAA20;Medium;-0,07986;117,27839
+Kalimantan Timur;KUTAI KARTANEGARA;Marang Kayu;Sebuntal;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-0,14172;117,36813
+Kalimantan Timur;KUTAI KARTANEGARA;Marang Kayu;Sebuntal;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;-0,14156;117,36913
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Badak;Batu-Batu;08-05-2025;11:53 WIB;NASA-NOAA20;Medium;-0,29556;117,38052
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Badak;Gas Alam Badak I;12-02-2025;00:47 WIB;NASA-NOAA20;Medium;-0,33461;117,42202
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Badak;Salo Cella;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-0,24285;117,33011
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Badak;Salo Cella;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;-0,24291;117,327
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Jawa;Kelurahan Muara Jawa;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;-0,84729;117,26686
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Jawa;Kelurahan Muara Jawa;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-0,84752;117,26614
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Benua Puhun;14-02-2025;12:52 WIB;NASA-NOAA20;Medium;-0,30698;116,78382
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Bukit Jering;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-0,16049;116,65638
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Lebaho Ulaq;03-02-2025;12:59 WIB;NASA-NOAA20;Medium;-0,34189;116,71526
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Liang Buaya;26-02-2025;12:27 WIB;NASA-NOAA20;Medium;0,02905;116,77448
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Menamang Kanan;18-01-2025;12:59 WIB;NASA-NOAA20;Medium;0,18288;117,02003
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Muara Kaman Ilir;11-01-2025;13:29 WIB;NASA-NOAA20;Medium;-0,15641;116,7783
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Muara Kaman Ulu;05-02-2025;12:20 WIB;NASA-NOAA20;Medium;-0,15545;116,76594
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Rantau Hempang;29-03-2025;00:05 WIB;NASA-NOAA20;Medium;-0,22618;116,84792
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Sabintulung;28-03-2025;13:03 WIB;NASA-NOAA20;Medium;-0,12741;116,85175
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Kaman;Sedulang;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;0,11443;116,78917
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Muntai;Jantur Baru;15-05-2025;13:03 WIB;NASA-NOAA20;Medium;-0,40475;116,25047
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Muntai;Muara Aloh;03-01-2025;12:37 WIB;NASA-NOAA20;Medium;-0,45233;116,36604
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Muntai;Muara Aloh;03-04-2025;12:50 WIB;NASA-NOAA20;Medium;-0,44036;116,36846
+Kalimantan Timur;KUTAI KARTANEGARA;Muara Wis;Lebak Mantan;28-03-2025;13:03 WIB;NASA-NOAA20;Medium;-0,477;116,48174
+Kalimantan Timur;KUTAI KARTANEGARA;Sanga Sanga;Kelurahan Pendingin;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;-0,6439;117,28317
+Kalimantan Timur;KUTAI KARTANEGARA;Sanga Sanga;Kelurahan Pendingin;25-05-2025;00:37 WIB;NASA-NOAA20;Medium;-0,64315;117,28447
+Kalimantan Timur;KUTAI KARTANEGARA;Sanga Sanga;Kelurahan Pendingin;27-03-2025;00:41 WIB;NASA-NOAA20;Medium;-0,64596;117,28445
+Kalimantan Timur;KUTAI KARTANEGARA;Sanga Sanga;Kelurahan Pendingin;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-0,64384;117,28465
+Kalimantan Timur;KUTAI KARTANEGARA;Tabang;Ritan Baru;06-01-2025;00:43 WIB;NASA-NOAA20;Medium;0,46975;116,1263
+Kalimantan Timur;KUTAI KARTANEGARA;Tabang;Ritan Baru;08-04-2025;00:15 WIB;NASA-NOAA20;Medium;0,47273;116,12607
+Kalimantan Timur;KUTAI KARTANEGARA;Tabang;Ritan Baru;24-02-2025;13:03 WIB;NASA-NOAA20;Medium;0,45829;116,13491
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong;Kelurahan Loa Ipuh Darat;09-05-2025;13:16 WIB;NASA-NOAA20;Medium;-0,42823;116,92377
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong;Kelurahan Loa Tebu;18-05-2025;12:08 WIB;NASA-NOAA20;Medium;-0,33279;116,98987
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong;Kelurahan Melayu;18-03-2025;12:50 WIB;NASA-NOAA20;Medium;-0,42133;116,98983
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Bukit Pariaman;09-05-2025;13:16 WIB;NASA-NOAA20;Medium;-0,2395;117,21407
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Bukit Pariaman;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-0,28221;117,198
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Separi;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;-0,30526;117,09093
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Tanjung Batu;12-04-2025;00:41 WIB;NASA-NOAA20;Medium;-0,38464;117,05058
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Tanjung Batu;20-05-2025;00:30 WIB;NASA-NOAA20;Medium;-0,38575;117,05133
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Tanjung Batu;24-02-2025;00:21 WIB;NASA-NOAA20;Medium;-0,38247;117,05099
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Tanjung Batu;28-02-2025;00:47 WIB;NASA-NOAA20;Medium;-0,38555;117,05066
+Kalimantan Timur;KUTAI KARTANEGARA;Tenggarong Seberang;Tanjung Batu;28-03-2025;00:22 WIB;NASA-NOAA20;Medium;-0,38473;117,05121
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Batu Timbau;15-03-2025;12:08 WIB;NASA-NOAA20;Medium;0,67421;116,75613
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Batu Timbau;16-02-2025;12:14 WIB;NASA-NOAA20;Medium;0,67528;116,75526
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Batu Timbau;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;0,67087;116,86852
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Himba Lestari;16-02-2025;12:14 WIB;NASA-NOAA20;Medium;0,72021;116,7336
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Himba Lestari;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;0,69817;116,73587
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Mugi Rahayu;15-03-2025;12:08 WIB;NASA-NOAA20;Medium;0,73057;116,88444
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Mugi Rahayu;16-02-2025;12:14 WIB;NASA-NOAA20;Medium;0,77082;116,86712
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Mugi Rahayu;19-02-2025;12:59 WIB;NASA-NOAA20;Medium;0,75228;116,86987
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Mugi Rahayu;22-05-2025;12:31 WIB;NASA-NOAA20;Medium;0,72963;116,87925
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Telaga;19-01-2025;12:40 WIB;NASA-NOAA20;Medium;0,62403;116,75336
+Kalimantan Timur;KUTAI TIMUR;Batu Ampar;Telaga;20-04-2025;12:31 WIB;NASA-NOAA20;Medium;0,62297;116,7545
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sekerat;06-05-2025;12:31 WIB;NASA-NOAA20;Medium;0,89509;117,70782
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sekerat;11-05-2025;12:38 WIB;NASA-NOAA20;Medium;0,89489;117,70838
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;01-03-2025;00:28 WIB;NASA-NOAA20;Medium;0,67434;117,56575
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;01-04-2025;00:47 WIB;NASA-NOAA20;Medium;0,67533;117,56609
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;02-04-2025;00:28 WIB;NASA-NOAA20;Medium;0,67667;117,56644
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;02-05-2025;01:06 WIB;NASA-NOAA20;Medium;0,68774;117,46469
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;04-02-2025;12:40 WIB;NASA-NOAA20;Medium;0,68445;117,56019
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;05-05-2025;00:09 WIB;NASA-NOAA20;Medium;0,68885;117,54417
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;06-01-2025;00:43 WIB;NASA-NOAA20;Medium;0,67628;117,56331
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;06-03-2025;00:36 WIB;NASA-NOAA20;Medium;0,67445;117,56697
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;06-04-2025;00:54 WIB;NASA-NOAA20;Medium;0,67322;117,56399
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;07-04-2025;00:34 WIB;NASA-NOAA20;Medium;0,6747;117,56499
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;08-02-2025;00:21 WIB;NASA-NOAA20;Medium;0,64989;117,56161
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;10-05-2025;00:15 WIB;NASA-NOAA20;Medium;0,68751;117,46695
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;11-01-2025;00:47 WIB;NASA-NOAA20;Medium;0,68175;117,55918
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;13-03-2025;00:05 WIB;NASA-NOAA20;Medium;0,648;117,55448
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;13-04-2025;00:22 WIB;NASA-NOAA20;Medium;0,67658;117,56518
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;13-05-2025;01:00 WIB;NASA-NOAA20;Medium;0,67404;117,56418
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;14-02-2025;23:52 WIB;NASA-NOAA20;Medium;0,68591;117,55946
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;14-04-2025;12:44 WIB;NASA-NOAA20;Medium;0,68112;117,56319
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;14-05-2025;00:41 WIB;NASA-NOAA20;Medium;0,68982;117,54344
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;15-04-2025;01:26 WIB;NASA-NOAA20;Medium;0,67758;117,56489
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;15-05-2025;00:22 WIB;NASA-NOAA20;Medium;0,67542;117,56474
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;17-02-2025;00:53 WIB;NASA-NOAA20;Medium;0,67608;117,56369
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;17-04-2025;00:47 WIB;NASA-NOAA20;Medium;0,68607;117,5578
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;17-05-2025;01:26 WIB;NASA-NOAA20;Medium;0,67516;117,56107
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;19-05-2025;00:47 WIB;NASA-NOAA20;Medium;0,6908;117,54591
+Kalimantan Timur;KUTAI TIMUR;Bengalon;Sepaso Selatan;21-04-2025;01:11 WIB;NASA-NOAA20;Medium;0,67314;117,56545
