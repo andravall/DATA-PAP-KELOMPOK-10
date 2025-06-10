@@ -1,0 +1,222 @@
+﻿Provinsi,Kab Kota,Kecamatan,Desa,Tanggal,Waktu,Satelit,Confidence,Latitude,Longitude,TN,TX,TAVG,RR,FF_AVG
+Kalimantan Barat,KETAPANG,Kendawangan,Airhitam Hulu,27-03-2025,13:22 WIB,NASA-NOAA20,High,"-2,58862","110,6923",24.7,32.5,27.9,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,10-02-2025,12:27 WIB,NASA-NOAA20,High,"-2,56419","110,41696",24.2,31.2,27.4,0.0,2.0
+Kalimantan Barat,MELAWI,Pinoh Utara,Natai Panjang,03-05-2025,13:29 WIB,NASA-NOAA20,High,"-0,24606","111,83077",24.0,33.4,28.3,6.0,1.0
+Kalimantan Barat,KAPUAS HULU,Boyan Tanjung,Landau Mentail,08-01-2025,12:46 WIB,NASA-NOAA20,Medium,"0,55506","112,61469",24.8,34.1,28.7,3.4,1.0
+Kalimantan Barat,KAPUAS HULU,Bunut Hilir,Bunut Hilir,13-03-2025,12:46 WIB,NASA-NOAA20,Medium,"0,78277","112,48342",23.5,35.3,28.8,17.0,1.0
+Kalimantan Barat,KAPUAS HULU,Embaloh Hulu,Ulak Pauk,07-05-2025,12:14 WIB,NASA-NOAA20,Medium,"1,08409","112,49029",25.0,35.2,28.9,0.0,1.0
+Kalimantan Barat,KAPUAS HULU,Hulu Gurung,Tani Makmur,10-05-2025,12:57 WIB,NASA-NOAA20,Medium,"0,44628","112,2235",23.6,33.3,27.4,53.0,1.0
+Kalimantan Barat,KAPUAS HULU,Kalis,Nanga Danau,07-05-2025,12:14 WIB,NASA-NOAA20,Medium,"0,60372","112,9152",25.0,35.2,28.9,0.0,1.0
+Kalimantan Barat,KAPUAS HULU,Kalis,Nanga Tubuk,07-05-2025,12:14 WIB,NASA-NOAA20,Medium,"0,60917","112,91427",25.0,35.2,28.9,0.0,1.0
+Kalimantan Barat,KAPUAS HULU,Pengkadan,Buak Limbang,15-02-2025,12:31 WIB,NASA-NOAA20,Medium,"0,49942","112,38448",24.1,35.6,28.7,0.0,1.0
+Kalimantan Barat,KAPUAS HULU,Puring Kencana,Kantuk Asam,10-05-2025,12:57 WIB,NASA-NOAA20,Medium,"0,9585","111,77402",23.6,33.3,27.4,53.0,1.0
+Kalimantan Barat,KAPUAS HULU,Putussibau Utara,Nanga Awin,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"0,96676","112,86951",24.9,35.4,29.3,0.0,1.0
+Kalimantan Barat,KAPUAS HULU,Seberuang,Sejiram,28-04-2025,13:22 WIB,NASA-NOAA20,Medium,"0,44553","111,99823",24.4,34.0,28.3,8888.0,1.0
+Kalimantan Barat,KAPUAS HULU,Semitau,Semitau Hilir,01-03-2025,13:09 WIB,NASA-NOAA20,Medium,"0,51644","111,95525",23.4,32.6,27.3,39.0,1.0
+Kalimantan Barat,KAPUAS HULU,Suhaid,Kerengas,29-04-2025,13:03 WIB,NASA-NOAA20,Medium,"0,4974","112,06186",24.9,34.1,28.5,0.0,1.0
+Kalimantan Barat,KETAPANG,Air Upas,Air Upas,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,36264","110,77117",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Air Upas,Air Upas,05-05-2025,12:50 WIB,NASA-NOAA20,Medium,"-2,44993","110,81466",25.2,32.9,29.1,0.0,2.0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Air Dua,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-1,92496","110,76942",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Bayam Raya,12-02-2025,00:49 WIB,NASA-NOAA20,Medium,"-2,14256","110,87392",23.7,30.1,26.5,0.9,2.0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kusik Batu Lapu,04-02-2025,12:37 WIB,NASA-NOAA20,Medium,"-1,97203","110,93039",25.2,27.3,25.8,0.8,1.0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Semantun,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,06095","111,02916",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Teluk Runjai,02-05-2025,13:48 WIB,NASA-NOAA20,Medium,"-1,99347","110,80135",25.4,32.2,28.3,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Air Tarap,25-03-2025,01:19 WIB,NASA-NOAA20,Medium,"-2,51586","110,87257",25.3,30.7,27.4,1.2,1.0
+Kalimantan Barat,KETAPANG,Kendawangan,Airhitam Hulu,17-03-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,65012","110,65219",24.0,30.8,27.0,1.6,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Bangkal Serai,09-02-2025,12:44 WIB,NASA-NOAA20,Medium,"-2,60611","110,50375",24.7,30.6,27.4,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Danau Buntar,03-02-2025,12:59 WIB,NASA-NOAA20,Medium,"-2,53062","110,90028",24.8,30.5,26.9,0.0,3.0
+Kalimantan Barat,KETAPANG,Kendawangan,Kedondong,31-03-2025,13:46 WIB,NASA-NOAA20,Medium,"-2,28442","110,3208",25.4,31.7,26.8,5.5,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Kendawangan Kanan,08-02-2025,13:03 WIB,NASA-NOAA20,Medium,"-2,80061","110,30051",25.0,30.6,27.2,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Kendawangan Kanan,17-03-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,6015","110,21172",24.0,30.8,27.0,1.6,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Keramat Jaya,17-03-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,60204","110,20816",24.0,30.8,27.0,1.6,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Keramat Jaya,25-05-2025,13:16 WIB,NASA-NOAA20,Medium,"-2,59797","110,20715",25.6,32.5,28.8,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,07-05-2025,12:14 WIB,NASA-NOAA20,Medium,"-2,71933","110,46682",25.8,33.3,29.1,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,08-02-2025,13:03 WIB,NASA-NOAA20,Medium,"-2,85059","110,41701",25.0,30.6,27.2,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,17-03-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,75702","110,43433",24.0,30.8,27.0,1.6,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,17-04-2025,13:29 WIB,NASA-NOAA20,Medium,"-2,85254","110,32454",25.8,31.8,26.8,0.0,3.0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,22-05-2025,12:31 WIB,NASA-NOAA20,Medium,"-2,71641","110,52143",26.4,32.8,29.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,24-05-2025,13:33 WIB,NASA-NOAA20,Medium,"-2,85835","110,47528",25.5,33.6,29.4,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,30-04-2025,12:44 WIB,NASA-NOAA20,Medium,"-2,86644","110,43513",24.2,32.6,27.9,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,01-05-2025,12:25 WIB,NASA-NOAA20,Medium,"-2,72301","110,32636",24.3,32.5,28.2,4.2,3.0
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,12-04-2025,13:22 WIB,NASA-NOAA20,Medium,"-2,66507","110,37958",24.0,31.8,27.2,2.4,1.0
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,18-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-2,56464","110,2418",23.9,31.7,27.6,0.0,2.0
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,19-04-2025,12:50 WIB,NASA-NOAA20,Medium,"-2,67545","110,34839",25.6,32.1,28.4,0.0,1.0
+Kalimantan Barat,KETAPANG,Manis Mata,Kelampai,27-03-2025,13:22 WIB,NASA-NOAA20,Medium,"-2,12653","110,98113",24.7,32.5,27.9,0.0,2.0
+Kalimantan Barat,KETAPANG,Manis Mata,Manis Mata,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,47096","110,91022",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Manis Mata,Pelempangan,03-05-2025,00:47 WIB,NASA-NOAA20,Medium,"-2,11304","111,0659",25.0,32.9,28.6,0.0,2.0
+Kalimantan Barat,KETAPANG,Manis Mata,Ratu Elok,03-05-2025,13:29 WIB,NASA-NOAA20,Medium,"-2,49886","110,99671",25.0,32.9,28.6,0.0,2.0
+Kalimantan Barat,KETAPANG,Manis Mata,Seguling,01-05-2025,12:25 WIB,NASA-NOAA20,Medium,"-2,6505","111,14392",24.3,32.5,28.2,4.2,3.0
+Kalimantan Barat,KETAPANG,Manis Mata,Silat,10-02-2025,12:27 WIB,NASA-NOAA20,Medium,"-2,29194","110,90405",24.2,31.2,27.4,0.0,2.0
+Kalimantan Barat,KETAPANG,Manis Mata,Suak Burung,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,35433","111,031",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Marau,Bantan Sari,03-05-2025,13:29 WIB,NASA-NOAA20,Medium,"-2,12322","110,84805",25.0,32.9,28.6,0.0,2.0
+Kalimantan Barat,KETAPANG,Marau,Belaban,07-05-2025,12:14 WIB,NASA-NOAA20,Medium,"-2,0981","110,63952",25.8,33.3,29.1,0.0,2.0
+Kalimantan Barat,KETAPANG,Marau,Karya Baru,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,2024","110,74294",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Marau,Karya Baru,07-05-2025,12:14 WIB,NASA-NOAA20,Medium,"-2,20927","110,74134",25.8,33.3,29.1,0.0,2.0
+Kalimantan Barat,KETAPANG,Marau,Pelanjau Jaya,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,28796","110,61975",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Marau,Randai,17-02-2025,00:56 WIB,NASA-NOAA20,Medium,"-2,16424","110,50235",23.9,30.3,26.6,0.0,2.0
+Kalimantan Barat,KETAPANG,Marau,Runjai Jaya,09-05-2025,13:16 WIB,NASA-NOAA20,Medium,"-2,13709","110,76667",24.9,32.4,27.8,5.2,2.0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,31-03-2025,13:46 WIB,NASA-NOAA20,Medium,"-1,91505","110,12767",25.4,31.7,26.8,5.5,2.0
+Kalimantan Barat,KETAPANG,Muara Pawan,Tanjung Pasar,20-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-1,78218","110,06858",25.1,33.4,28.7,1.5,2.0
+Kalimantan Barat,KETAPANG,Muara Pawan,Tempurukan,18-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,63443","110,06327",23.9,31.7,27.6,0.0,2.0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Betenung,13-02-2025,13:09 WIB,NASA-NOAA20,Medium,"-1,55026","110,72728",23.8,30.8,26.8,0.0,2.0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Siantau Raya,01-05-2025,12:25 WIB,NASA-NOAA20,Medium,"-1,67545","110,43939",24.3,32.5,28.2,4.2,3.0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sungai Kelik,21-05-2025,12:53 WIB,NASA-NOAA20,Medium,"-1,57331","110,39078",27.0,33.4,29.7,0.0,2.0
+Kalimantan Barat,KETAPANG,Pemahan,Pebihingan,03-01-2025,12:37 WIB,NASA-NOAA20,Medium,"-1,73846","110,60936",25.5,31.6,27.9,0.0,3.0
+Kalimantan Barat,KETAPANG,Sandai,Jago Bersatu,21-05-2025,12:53 WIB,NASA-NOAA20,Medium,"-1,23365","110,46578",27.0,33.4,29.7,0.0,2.0
+Kalimantan Barat,KETAPANG,Sandai,Muara Jekak,14-05-2025,13:22 WIB,NASA-NOAA20,Medium,"-1,20596","110,52908",25.8,32.1,28.4,0.0,1.0
+Kalimantan Barat,KETAPANG,Sandai,Petai Patah,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-1,17439","110,61624",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Sandai,Sandai,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-1,28266","110,66342",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Simpang Dua,Kampar Sebomban,17-04-2025,13:29 WIB,NASA-NOAA20,Medium,"-0,81522","110,24784",25.8,31.8,26.8,0.0,3.0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang Hulu,20-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-0,62573","110,34875",25.1,33.4,28.7,1.5,2.0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,09-02-2025,12:46 WIB,NASA-NOAA20,Medium,"-0,53698","110,34191",24.7,30.6,27.4,0.0,2.0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,20-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-0,53242","110,20261",25.1,33.4,28.7,1.5,2.0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Kualan,13-05-2025,13:42 WIB,NASA-NOAA20,Medium,"-0,59594","110,09173",25.0,33.4,28.7,0.0,1.0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Labai,29-04-2025,13:03 WIB,NASA-NOAA20,Medium,"-0,44234","110,30738",24.0,32.0,27.8,0.0,2.0
+Kalimantan Barat,KETAPANG,Singkup,Pantai Ketikal,08-03-2025,12:37 WIB,NASA-NOAA20,Medium,"-2,47461","110,76189",24.2,31.4,27.2,26.1,2.0
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Makmur Abadi,18-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,70367","110,29575",23.9,31.7,27.6,0.0,2.0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Batu Beransak,10-02-2025,12:27 WIB,NASA-NOAA20,Medium,"-1,79937","110,71601",24.2,31.2,27.4,0.0,2.0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Mahawa,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-1,9159","110,69176",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Mahawa,25-05-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,92003","110,74052",25.6,32.5,28.8,0.0,2.0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-1,90356","110,61314",25.7,32.0,28.5,0.0,2.0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,07-05-2025,13:54 WIB,NASA-NOAA20,Medium,"-1,90176","110,51448",25.8,33.3,29.1,0.0,2.0
+Kalimantan Barat,KOTA PONTIANAK,Pontianak Selatan,Kelurahan Benuamelayu Darat,18-01-2025,12:59 WIB,NASA-NOAA20,Medium,"-0,03061","109,34088",25.2,33.2,27.5,4.0,1.0
+Kalimantan Barat,KOTA SINGKAWANG,Singkawang Selatan,Kelurahan Pangmilang,01-05-2025,12:25 WIB,NASA-NOAA20,Medium,"0,79403","109,00355",,,,,
+Kalimantan Barat,KOTA SINGKAWANG,Singkawang Selatan,Kelurahan Pangmilang,12-04-2025,13:22 WIB,NASA-NOAA20,Medium,"0,80746","108,96626",,,,,
+Kalimantan Barat,KOTA SINGKAWANG,Singkawang Timur,Kelurahan Pajintan,22-02-2025,13:41 WIB,NASA-NOAA20,Medium,"0,90998","109,05076",,,,,
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Batu Ampar,18-05-2025,13:48 WIB,NASA-NOAA20,Medium,"-0,86295","109,70078",24.0,33.0,28.3,3.6,1.0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Medan Mas,12-02-2025,13:31 WIB,NASA-NOAA20,Medium,"-0,71928","109,28284",23.4,33.2,27.0,0.2,2.0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Medan Mas,13-02-2025,13:09 WIB,NASA-NOAA20,Medium,"-0,71895","109,28252",23.3,33.4,27.0,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Medan Mas,16-02-2025,01:13 WIB,NASA-NOAA20,Medium,"-0,70503","109,30006",24.2,31.6,26.9,0.2,2.0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Medan Mas,18-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-0,7176","109,34002",23.5,33.9,27.1,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Medan Mas,21-02-2025,01:19 WIB,NASA-NOAA20,Medium,"-0,71384","109,28165",23.7,31.9,27.2,22.2,2.0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Medan Mas,22-02-2025,13:41 WIB,NASA-NOAA20,Medium,"-0,7185","109,28299",23.1,33.0,26.7,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Kuala Mandor B,Kuala Mandor B,07-05-2025,01:13 WIB,NASA-NOAA20,Medium,"-0,0193","109,54504",25.1,35.0,29.1,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Kuala Mandor B,Kubu Padi,25-05-2025,13:16 WIB,NASA-NOAA20,Medium,"0,10439","109,40977",25.3,35.4,29.4,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Kuala Mandor B,Kubu Padi,30-04-2025,12:46 WIB,NASA-NOAA20,Medium,"0,17006","109,4027",23.8,32.4,27.4,0.0,1.0
+Kalimantan Barat,KUBU RAYA,Kuala Mandor B,Retok,06-01-2025,13:22 WIB,NASA-NOAA20,Medium,"0,16296","109,48378",22.6,32.5,27.0,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Kuala Mandor B,Retok,12-02-2025,13:31 WIB,NASA-NOAA20,Medium,"0,16967","109,44286",23.4,33.2,27.0,0.2,2.0
+Kalimantan Barat,KUBU RAYA,Kubu,Jangkang Dua,13-02-2025,13:09 WIB,NASA-NOAA20,Medium,"-0,4471","109,39536",23.3,33.4,27.0,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Kubu,Seruat Dua,09-02-2025,12:46 WIB,NASA-NOAA20,Medium,"-0,43659","109,20571",23.6,31.4,26.8,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Kubu,Seruat Dua,13-02-2025,00:30 WIB,NASA-NOAA20,Medium,"-0,43364","109,20761",23.3,33.4,27.0,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Pematang Tujuh,18-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-0,206","109,28014",23.5,33.9,27.1,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Umum,11-02-2025,01:08 WIB,NASA-NOAA20,Medium,"-0,18699","109,33216",23.5,31.0,26.3,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Umum,16-04-2025,13:48 WIB,NASA-NOAA20,Medium,"-0,20039","109,33695",23.8,33.1,27.7,8.5,2.0
+Kalimantan Barat,KUBU RAYA,Sungai Ambawang,Durian,16-02-2025,01:13 WIB,NASA-NOAA20,Medium,"-0,07919","109,44398",24.2,31.6,26.9,0.2,2.0
+Kalimantan Barat,KUBU RAYA,Sungai Ambawang,Simpang Kanan,23-04-2025,13:16 WIB,NASA-NOAA20,Medium,"-0,06527","109,50683",23.8,33.0,27.0,0.1,2.0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pal Sembilan,12-02-2025,13:31 WIB,NASA-NOAA20,Medium,"-0,07865","109,31761",23.4,33.2,27.0,0.2,2.0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Punggur Kapuas,17-03-2025,13:10 WIB,NASA-NOAA20,Medium,"-0,10522","109,20173",23.5,32.8,26.6,4.5,1.0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,12-02-2025,13:31 WIB,NASA-NOAA20,Medium,"-0,10007","109,32079",23.4,33.2,27.0,0.2,2.0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,14-02-2025,01:51 WIB,NASA-NOAA20,Medium,"-0,1753","109,30177",23.2,32.9,27.0,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Kuala Dua,13-02-2025,13:09 WIB,NASA-NOAA20,Medium,"-0,20402","109,40804",23.3,33.4,27.0,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Mekar Baru,19-04-2025,12:53 WIB,NASA-NOAA20,Medium,"-0,08263","109,42188",23.8,31.0,28.4,0.0,2.0
+Kalimantan Barat,KUBU RAYA,Teluk Pakedai,Selat Remis,16-04-2025,13:48 WIB,NASA-NOAA20,Medium,"-0,34035","109,16599",23.8,33.1,27.7,8.5,2.0
+Kalimantan Barat,KUBU RAYA,Teluk Pakedai,Selat Remis,25-05-2025,13:16 WIB,NASA-NOAA20,Medium,"-0,32558","109,17303",25.3,35.4,29.4,0.0,2.0
+Kalimantan Barat,SINTANG,Serawai,Talian Sahabung,08-01-2025,13:44 WIB,NASA-MODIS,Medium,"-0,26056","112,52173",23.1,32.2,27.2,13.5,1.0
+Kalimantan Selatan,KOTABARU,Kelumpang Hilir,Tarjun,21-04-2025,01:13 WIB,NASA-NOAA20,Medium,"-3,27056","116,10378",25.0,31.6,27.4,2.8,1.0
+Kalimantan Selatan,KOTABARU,Kelumpang Hilir,Tarjun,29-03-2025,00:05 WIB,NASA-NOAA20,Medium,"-3,27303","116,10443",25.2,32.0,28.2,1.8,1.0
+Kalimantan Selatan,KOTABARU,Kelumpang Hulu,Mangkirana,12-01-2025,13:09 WIB,NASA-NOAA20,Medium,"-3,06535","115,85281",23.8,32.7,27.0,0.0,1.0
+Kalimantan Selatan,KOTABARU,Kelumpang Selatan,Suka Maju,02-03-2025,12:50 WIB,NASA-NOAA20,Medium,"-3,13311","116,08834",24.6,32.0,27.6,0.0,1.0
+Kalimantan Selatan,KOTABARU,Kelumpang Tengah,Sembilang,11-05-2025,12:38 WIB,NASA-NOAA20,Medium,"-2,89416","116,22395",24.8,33.7,27.3,0.0,1.0
+Kalimantan Selatan,KOTABARU,Pamukan Selatan,Tanjung Samalantakan,04-05-2025,00:30 WIB,NASA-NOAA20,Medium,"-2,57403","116,3755",24.4,33.1,27.5,1.4,1.0
+Kalimantan Selatan,KOTABARU,Pulau Laut Utara,Sarang Tiung,28-04-2025,00:41 WIB,NASA-NOAA20,Medium,"-3,21898","116,27791",23.3,32.2,26.8,7.0,1.0
+Kalimantan Selatan,KOTABARU,Pulau Sebuku,Sekapung,10-03-2025,11:59 WIB,NASA-NOAA20,Medium,"-3,61324","116,36449",25.0,33.4,27.2,0.2,1.0
+Kalimantan Selatan,KOTABARU,Sampanahan,Basuang,09-03-2025,12:21 WIB,NASA-NOAA20,Medium,"-2,60914","116,35002",24.8,33.0,28.2,0.0,2.0
+Kalimantan Selatan,KOTABARU,Sampanahan,Basuang,16-05-2025,12:44 WIB,NASA-NOAA20,Medium,"-2,6205","116,33475",24.7,34.1,28.3,0.0,1.0
+Kalimantan Tengah,BARITO UTARA,Gunung Timang,Majangkan,07-01-2025,13:03 WIB,NASA-NOAA20,Medium,"-1,14249","115,09983",24.0,32.2,27.7,4.0,0.0
+Kalimantan Tengah,BARITO UTARA,Gunung Timang,Majangkan,22-05-2025,12:31 WIB,NASA-NOAA20,Medium,"-1,16532","115,08153",24.4,33.7,27.7,0.0,0.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Kamawen,08-05-2025,00:54 WIB,NASA-NOAA20,Medium,"-1,16348","114,76689",24.4,34.0,29.3,0.0,0.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Kamawen,14-03-2025,12:25 WIB,NASA-NOAA20,Medium,"-1,16768","114,78397",24.7,35.0,28.7,0.0,1.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Pepas,09-05-2025,00:37 WIB,NASA-NOAA20,Medium,"-1,28995","114,76219",22.9,30.2,25.6,30.8,0.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Pepas,28-02-2025,00:47 WIB,NASA-NOAA20,Medium,"-1,29222","114,76036",24.4,34.4,28.8,3.1,0.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Ruji,12-03-2025,00:24 WIB,NASA-NOAA20,Medium,"-1,19681","114,73688",23.8,33.9,28.0,0.0,1.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Ruji,16-04-2025,01:09 WIB,NASA-NOAA20,Medium,"-1,1976","114,7356",23.7,34.4,28.5,0.0,0.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Ruji,17-02-2025,00:56 WIB,NASA-NOAA20,Medium,"-1,19734","114,73382",22.6,30.6,26.9,0.5,0.0
+Kalimantan Tengah,BARITO UTARA,Montallat,Ruji,28-02-2025,00:47 WIB,NASA-NOAA20,Medium,"-1,19656","114,73479",24.4,34.4,28.8,3.1,0.0
+Kalimantan Tengah,BARITO UTARA,Teweh Baru,Gandring,11-05-2025,12:38 WIB,NASA-NOAA20,Medium,"-0,95232","115,17802",24.0,33.7,28.2,0.0,0.0
+Kalimantan Tengah,BARITO UTARA,Teweh Baru,Sikui,18-01-2025,12:59 WIB,NASA-NOAA20,Medium,"-1,07323","115,07104",21.6,33.8,28.6,0.0,1.0
+Kalimantan Tengah,BARITO UTARA,Teweh Selatan,Bintang Ninggi I,28-02-2025,13:29 WIB,NASA-NOAA20,Medium,"-1,03788","114,86146",24.4,34.4,28.8,3.1,0.0
+Kalimantan Tengah,BARITO UTARA,Teweh Tengah,Beringin Raya,18-01-2025,12:59 WIB,NASA-NOAA20,Medium,"-0,91189","114,66366",21.6,33.8,28.6,0.0,1.0
+Kalimantan Tengah,BARITO UTARA,Teweh Tengah,Beringin Raya,22-05-2025,12:31 WIB,NASA-NOAA20,Medium,"-0,93944","114,72552",24.4,33.7,27.7,0.0,0.0
+Kalimantan Tengah,BARITO UTARA,Teweh Tengah,Datai Nirui,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-0,93473","114,69281",24.4,34.6,29.5,0.0,0.0
+Kalimantan Tengah,BARITO UTARA,Teweh Tengah,Kelurahan Lanjas,25-02-2025,12:44 WIB,NASA-NOAA20,Medium,"-0,91374","114,86064",23.8,33.4,28.1,0.1,0.0
+Kalimantan Tengah,BARITO UTARA,Teweh Tengah,Lemo II,19-05-2025,00:47 WIB,NASA-NOAA20,Medium,"-1,00272","114,47531",24.7,34.6,28.9,0.0,0.0
+Kalimantan Tengah,BARITO UTARA,Teweh Timur,Mampuak I,15-05-2025,13:03 WIB,NASA-NOAA20,Medium,"-1,13111","115,37132",23.2,32.8,28.4,0.0,0.0
+Kalimantan Tengah,KOTA PALANGKARAYA,Sabangau,Kelurahan Sabaru,06-01-2025,13:22 WIB,NASA-NOAA20,Medium,"-2,31079","113,95801",24.5,35.3,28.9,2.0,1.0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Arut Selatan,Kenambui,02-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-2,34315","111,65582",22.9,35.6,28.3,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Arut Selatan,Pasir Panjang,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-2,83457","111,55498",24.2,34.2,28.0,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Arut Selatan,Rangda,08-02-2025,13:03 WIB,NASA-NOAA20,Medium,"-2,50126","111,59857",25.0,33.8,28.1,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Arut Selatan,Runtu,27-03-2025,13:22 WIB,NASA-NOAA20,Medium,"-2,34406","111,71697",25.1,36.5,29.6,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kotawaringin Lama,Rungun,11-05-2025,12:38 WIB,NASA-NOAA20,Medium,"-2,36333","111,41351",24.2,33.6,27.5,35.7,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Antang Kalang,Tumbang Kalang,08-02-2025,13:03 WIB,NASA-NOAA20,Medium,"-1,50498","112,68991",23.6,33.8,28.4,6.7,3.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Antang Kalang,Tumbang Manya,02-05-2025,01:09 WIB,NASA-NOAA20,Medium,"-1,51205","112,5712",22.8,33.9,27.7,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Antang Kalang,Tumbang Manya,14-03-2025,01:26 WIB,NASA-NOAA20,Medium,"-1,51182","112,57188",24.1,33.7,27.9,28.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Antang Kalang,Tumbang Sepayang,25-05-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,58151","112,57507",24.5,35.0,27.9,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tanah Haluan,05-01-2025,13:39 WIB,NASA-NOAA20,Medium,"-1,90291","112,35633",22.9,33.6,27.3,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tewai Hara,18-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,86385","112,26633",23.7,30.7,26.4,10.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tumbang Kaminting,28-03-2025,13:01 WIB,NASA-NOAA20,Medium,"-1,89078","112,38951",25.8,34.0,28.6,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tumbang Payang,04-05-2025,00:30 WIB,NASA-NOAA20,Medium,"-1,82988","112,24938",23.2,34.4,27.4,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tumbang Payang,10-05-2025,12:57 WIB,NASA-NOAA20,Medium,"-1,83055","112,2505",23.7,33.0,27.6,4.6,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tumbang Penyahuan,03-05-2025,13:29 WIB,NASA-NOAA20,Medium,"-1,83866","112,35751",23.6,34.4,28.5,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tumbang Penyahuan,04-02-2025,12:37 WIB,NASA-NOAA20,Medium,"-1,85772","112,3624",23.0,33.2,27.3,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tumbang Penyahuan,13-02-2025,13:09 WIB,NASA-NOAA20,Medium,"-1,89382","112,35265",23.4,33.8,27.8,3.8,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Bukit Santuai,Tumbang Penyahuan,28-03-2025,13:01 WIB,NASA-NOAA20,Medium,"-1,80465","112,42641",25.8,34.0,28.6,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Cempaga Hulu,Keruing,19-02-2025,12:59 WIB,NASA-NOAA20,Medium,"-2,08682","113,02016",23.4,33.1,27.3,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Cempaga Hulu,Sudan,27-03-2025,00:41 WIB,NASA-NOAA20,Medium,"-2,13573","113,02876",25.3,34.7,29.6,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Kota Besi,Palangan,03-02-2025,12:59 WIB,NASA-NOAA20,Medium,"-2,36403","112,7607",24.2,34.2,27.8,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hilir Utara,Bagendang Tengah,21-05-2025,12:50 WIB,NASA-NOAA20,Medium,"-2,74149","112,85947",25.1,33.6,28.8,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hulu,Kapuk,07-05-2025,12:14 WIB,NASA-NOAA20,Medium,"-2,13324","112,41393",23.4,34.1,28.0,7.5,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hulu,Kapuk,08-05-2025,13:33 WIB,NASA-NOAA20,Medium,"-2,12725","112,41277",24.3,34.9,29.1,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hulu,Santilik,11-05-2025,12:38 WIB,NASA-NOAA20,Medium,"-1,97465","112,57761",24.0,34.0,28.2,0.1,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hulu,Tanjung Jariangau,02-02-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,88594","112,62899",22.0,33.0,27.3,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hulu,Tanjung Jariangau,03-02-2025,12:59 WIB,NASA-NOAA20,Medium,"-1,88721","112,52865",24.2,34.2,27.8,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hulu,Tanjung Jariangau,17-01-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,8952","112,53181",23.8,34.0,27.9,5.9,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telaga Antang,Bukit Indah,05-02-2025,12:20 WIB,NASA-NOAA20,Medium,"-1,6084","112,53224",23.6,34.0,28.3,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telaga Antang,Bukit Indah,24-04-2025,00:15 WIB,NASA-NOAA20,Medium,"-1,60677","112,51789",23.8,32.7,26.4,8888.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telaga Antang,Tumbang Bajanei,05-05-2025,12:50 WIB,NASA-NOAA20,Medium,"-1,69417","112,55283",24.7,34.4,27.5,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telaga Antang,Tumbang Bajanei,13-02-2025,13:09 WIB,NASA-NOAA20,Medium,"-1,69086","112,53339",23.4,33.8,27.8,3.8,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telaga Antang,Tumbang Boloi,05-05-2025,12:50 WIB,NASA-NOAA20,Medium,"-1,68262","112,56178",24.7,34.4,27.5,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telawang,Kenyala,01-05-2025,12:25 WIB,NASA-NOAA20,Medium,"-2,30262","112,66306",23.2,33.5,28.0,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telawang,Kenyala,08-05-2025,13:33 WIB,NASA-NOAA20,Medium,"-2,29626","112,65403",24.3,34.9,29.1,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telawang,Sebabi,03-02-2025,12:59 WIB,NASA-NOAA20,Medium,"-2,16815","112,51157",24.2,34.2,27.8,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Tualan Hulu,Bukit Makmur,10-05-2025,12:57 WIB,NASA-NOAA20,Medium,"-1,78155","112,66086",23.7,33.0,27.6,4.6,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Tualan Hulu,Damar Makmur,28-03-2025,13:01 WIB,NASA-NOAA20,Medium,"-1,71134","112,82562",25.8,34.0,28.6,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Tualan Hulu,Luwuk Sampun,06-03-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,72799","112,79903",24.7,33.2,26.3,3.5,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Tualan Hulu,Sebungsu,03-05-2025,13:29 WIB,NASA-NOAA20,Medium,"-1,86094","112,78671",23.6,34.4,28.5,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Tualan Hulu,Tanjung Jorong,03-05-2025,13:29 WIB,NASA-NOAA20,Medium,"-1,63632","112,81131",23.6,34.4,28.5,0.0,1.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Tualan Hulu,Tanjung Jorong,05-02-2025,12:20 WIB,NASA-NOAA20,Medium,"-1,62186","112,75874",23.6,34.0,28.3,0.0,2.0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Tualan Hulu,Tanjung Jorong,13-05-2025,13:42 WIB,NASA-NOAA20,Medium,"-1,67824","112,73566",24.4,33.1,27.5,8.2,1.0
+Kalimantan Timur,BERAU,Kelay,Merapun,05-05-2025,12:53 WIB,NASA-NOAA20,Medium,"1,4715","117,24911",24.5,35.4,28.9,0.0,2.0
+Kalimantan Timur,BERAU,Kelay,Merapun,06-05-2025,12:31 WIB,NASA-NOAA20,Medium,"1,47703","117,24789",22.5,33.6,26.9,9.0,2.0
+Kalimantan Timur,BERAU,Kelay,Merapun,14-05-2025,13:22 WIB,NASA-NOAA20,Medium,"1,36177","117,21405",24.5,35.6,29.0,0.0,1.0
+Kalimantan Timur,BERAU,Kelay,Merapun,21-04-2025,12:14 WIB,NASA-NOAA20,Medium,"1,43936","117,25673",24.3,33.8,27.2,8888.0,1.0
+Kalimantan Timur,BERAU,Kelay,Merapun,22-05-2025,12:31 WIB,NASA-NOAA20,Medium,"1,37697","117,20867",24.2,34.6,27.5,0.2,1.0
+Kalimantan Timur,BERAU,Kelay,Muara Lesan,08-04-2025,00:15 WIB,NASA-NOAA20,Medium,"1,64306","117,18923",24.4,34.2,28.7,0.0,2.0
+Kalimantan Timur,BERAU,Kelay,Muara Lesan,14-05-2025,00:41 WIB,NASA-NOAA20,Medium,"1,6605","117,19244",24.5,35.6,29.0,0.0,1.0
+Kalimantan Timur,BERAU,Pulau Derawan,Tanjung Batu,22-05-2025,12:33 WIB,NASA-NOAA20,Medium,"2,33078","118,01334",24.2,34.6,27.5,0.2,1.0
+Kalimantan Timur,BERAU,Pulau Derawan,Teluk Semanting,11-05-2025,12:40 WIB,NASA-NOAA20,Medium,"2,23072","117,97492",24.7,34.3,27.8,0.0,1.0
+Kalimantan Timur,BERAU,Pulau Derawan,Teluk Semanting,19-02-2025,12:59 WIB,NASA-NOAA20,Medium,"2,35636","117,93671",22.5,33.8,27.2,31.8,1.0
+Kalimantan Timur,BERAU,Sambaliung,Bena Baru,11-01-2025,00:47 WIB,NASA-NOAA20,Medium,"1,93772","117,22269",24.0,33.8,27.4,8888.0,1.0
+Kalimantan Timur,BERAU,Sambaliung,Long Lanuk,16-05-2025,12:46 WIB,NASA-NOAA20,Medium,"1,93108","117,23045",24.0,33.6,27.0,3.2,1.0
+Kalimantan Timur,BERAU,Sambaliung,Sukan Tengah,27-04-2025,12:01 WIB,NASA-NOAA20,Medium,"2,12702","117,65414",23.7,35.0,28.0,0.0,1.0
+Kalimantan Timur,BERAU,Sambaliung,Tumbit Dayak,16-05-2025,12:46 WIB,NASA-NOAA20,Medium,"1,9317","117,23457",24.0,33.6,27.0,3.2,1.0
+Kalimantan Timur,BERAU,Segah,Gunung Sari,11-05-2025,12:40 WIB,NASA-NOAA20,Medium,"2,26879","117,18729",24.7,34.3,27.8,0.0,1.0
+Kalimantan Timur,BERAU,Segah,Long Ayan,20-04-2025,12:31 WIB,NASA-NOAA20,Medium,"2,20616","116,92254",23.2,35.3,28.1,0.0,1.0
+Kalimantan Timur,BERAU,Segah,Long Ayan,22-04-2025,11:55 WIB,NASA-NOAA20,Medium,"2,32019","116,98672",24.1,34.6,28.1,0.6,2.0
+Kalimantan Timur,BERAU,Tabalar,Buyung-Buyung,01-01-2025,11:36 WIB,NASA-NOAA20,Medium,"1,87036","117,8034",23.3,34.4,28.0,54.0,1.0
+Kalimantan Timur,BERAU,Tabalar,Buyung-Buyung,03-04-2025,12:53 WIB,NASA-NOAA20,Medium,"1,84581","117,82543",24.0,33.2,27.7,0.2,1.0
+Kalimantan Timur,BERAU,Tabalar,Buyung-Buyung,20-04-2025,12:31 WIB,NASA-NOAA20,Medium,"1,89327","117,79067",23.2,35.3,28.1,0.0,1.0
+Kalimantan Timur,BERAU,Tabalar,Tabalar Muara,03-04-2025,12:50 WIB,NASA-NOAA20,Medium,"1,7612","117,926",24.0,33.2,27.7,0.2,1.0
+Kalimantan Timur,BERAU,Tabalar,Tubaan,20-04-2025,12:31 WIB,NASA-NOAA20,Medium,"1,77987","117,9147",23.2,35.3,28.1,0.0,1.0
+Kalimantan Timur,BERAU,Talisayan,Capuak,03-01-2025,12:37 WIB,NASA-NOAA20,Medium,"1,48463","118,22752",24.0,35.0,27.4,8888.0,1.0
+Kalimantan Timur,BERAU,Teluk Bayur,Labanan Makarti,09-04-2025,12:38 WIB,NASA-NOAA20,Medium,"2,05086","117,33524",24.3,33.2,26.6,9.4,1.0
+Kalimantan Timur,BERAU,Teluk Bayur,Labanan Makmur,04-03-2025,12:14 WIB,NASA-NOAA20,Medium,"1,9986","117,20527",23.8,35.5,28.1,8888.0,1.0
+Kalimantan Timur,BERAU,Teluk Bayur,Tumbit Melayu,04-03-2025,12:14 WIB,NASA-NOAA20,Medium,"1,97367","117,20223",23.8,35.5,28.1,8888.0,1.0
+Kalimantan Timur,BERAU,Teluk Bayur,Tumbit Melayu,08-04-2025,12:57 WIB,NASA-NOAA20,Medium,"2,00283","117,21854",24.4,34.2,28.7,0.0,2.0
+Kalimantan Timur,KOTA BALIKPAPAN,Balikpapan Tengah,Kelurahan Karang Jati,01-05-2025,01:26 WIB,NASA-NOAA20,Medium,"-1,24403","116,81747",25.8,32.3,28.2,0.0,1.0
+Kalimantan Timur,KOTA BALIKPAPAN,Balikpapan Tengah,Kelurahan Karang Jati,04-05-2025,13:10 WIB,NASA-NOAA20,Medium,"-1,24691","116,8164",24.6,32.8,28.9,0.0,1.0
+Kalimantan Timur,KOTA BALIKPAPAN,Balikpapan Tengah,Kelurahan Karang Jati,07-04-2025,13:16 WIB,NASA-NOAA20,Medium,"-1,2479","116,81806",25.0,32.4,28.2,8888.0,1.0
+Kalimantan Timur,KOTA BALIKPAPAN,Balikpapan Tengah,Kelurahan Karang Jati,14-04-2025,12:44 WIB,NASA-NOAA20,Medium,"-1,24843","116,81623",25.7,32.4,28.2,7.4,2.0
+Kalimantan Timur,KOTA BALIKPAPAN,Balikpapan Tengah,Kelurahan Karang Jati,15-05-2025,13:03 WIB,NASA-NOAA20,Medium,"-1,24911","116,81657",24.4,32.9,28.7,8888.0,1.0
+Kalimantan Timur,KOTA BALIKPAPAN,Balikpapan Tengah,Kelurahan Karang Jati,25-03-2025,01:19 WIB,NASA-NOAA20,Medium,"-1,24392","116,81727",24.0,31.5,27.2,3.2,1.0
+Kalimantan Timur,KOTA BALIKPAPAN,Balikpapan Tengah,Kelurahan Karang Jati,27-03-2025,00:41 WIB,NASA-NOAA20,Medium,"-1,24517","116,81609",26.2,32.8,28.9,0.0,1.0
+Kalimantan Timur,KOTA SAMARINDA,Samarinda Utara,Kelurahan Sungai Siring,20-05-2025,00:30 WIB,NASA-NOAA20,Medium,"-0,44618","117,26043",23.7,31.0,26.4,54.0,1.0
