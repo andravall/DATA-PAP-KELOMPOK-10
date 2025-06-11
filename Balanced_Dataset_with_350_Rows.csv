@@ -1,0 +1,351 @@
+provinsi,kab kota,kecamatan,desa,tanggal,waktu,satelit,confidence,latitude,longitude,tn,tx,tavg,rr,ff_avg
+Gorontalo,BONE BOLANGO,Bulawa,Pinomotiga,11-09-2024,11:36 WIB,NASA-NOAA20,High,0,3824,40.606666666666655,7141.662499999999,28.82,0.8285714285714285,1.64
+Gorontalo,GORONTALO,Bilato,Bilato,11-09-2024,11:36 WIB,NASA-NOAA20,High,0,54701,21.2,33.3,27.8,0.0,3.0
+Gorontalo,GORONTALO,Limboto Barat,Daenaa,06-09-2024,11:29 WIB,NASA-NOAA20,High,0,69777,24.6,33.8,28.9,0.0,3.0
+Sulawesi Barat,MAMUJU,Bonehau,Bonehau,25-10-2024,13:12 WIB,NASA-MODIS,High,-2,56841,26.2,35.4,29.9,0.0,1.0
+Sulawesi Barat,MAMUJU,Kalumpang,Sandapang,08-10-2024,13:18 WIB,NASA-MODIS,High,-2,34529,24.6,32.0,27.8,3.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Embonatana,20-09-2024,12:06 WIB,NASA-NOAA20,High,-2,33922,24.3,33.4,29.2,0.0,1.0
+Sulawesi Tengah,BANGGAI,Bualemo,Nipa Kalemoan,13-10-2024,08:30 WIB,NASA-MODIS,High,0,60436,123.0,22041.0,28.82,0.8285714285714285,1.64
+Sulawesi Tengah,BANGGAI,Moilong,Saluan,09-11-2024,01:02 WIB,NASA-MODIS,High,-1,46724,122.0,38642.0,28.82,0.8285714285714285,1.64
+Sulawesi Tengah,BANGGAI,Kintom,Dimpalon,24-10-2024,11:29 WIB,NASA-NOAA20,High,-1,11078,122.0,63683.0,28.82,0.8285714285714285,1.64
+Sulawesi Tengah,BANGGAI,Mantoh,Sulubombong,20-10-2024,12:44 WIB,NASA-NOAA20,High,0,99777,123.0,3372.0,28.82,0.8285714285714285,1.64
+Sulawesi Tengah,BANGGAI,Pagimana,Baloa Doda,11-09-2024,11:36 WIB,NASA-NOAA20,High,0,97229,122.0,43016.0,28.82,0.8285714285714285,1.64
+Sulawesi Tengah,POSO,Lore Piore,Watutau,16-09-2024,13:18 WIB,NASA-MODIS,High,-1,5331,23.4,33.6,27.4,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Barati,25-10-2024,13:12 WIB,NASA-MODIS,High,-1,99165,23.6,33.0,28.8,0.0,1.0
+Sulawesi Tengah,POSO,Lore Tengah,Rompo,11-08-2024,12:57 WIB,NASA-NOAA20,High,-1,61157,23.6,32.8,29.3,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Selatan,Boe,07-10-2024,11:46 WIB,NASA-NOAA20,High,-2,7998,24.0,38.0,29.0,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Selatan,Pasir Putih,12-09-2024,12:57 WIB,NASA-NOAA20,High,-2,6096,25.6,34.6,29.6,0.0,3.0
+Sulawesi Tengah,TOLI TOLI,Lampasio,Janja,25-10-2024,13:12 WIB,NASA-MODIS,High,0,8769,24.8,33.7,29.9,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Plasma Jaya,20-10-2024,13:08 WIB,NASA-MODIS,High,-4,43897,25.4,33.6,29.3,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,06-10-2024,21:01 WIB,NASA-MODIS,High,-4,47823,24.2,34.2,29.2,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,19-10-2024,13:01 WIB,NASA-NOAA20,High,-4,47927,25.2,33.4,29.3,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,29-10-2024,11:34 WIB,NASA-NOAA20,High,-4,4804,26.2,35.8,30.3,0.8285714285714285,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,19-10-2024,13:01 WIB,NASA-NOAA20,High,-4,44344,25.2,33.4,29.3,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu Ujung,21-09-2024,11:46 WIB,NASA-NOAA20,High,-4,41351,27.2,35.8,29.4,0.0,2.0
+Sulawesi Tenggara,KONAWE SELATAN,Laeya,Labokeo,30-10-2024,13:14 WIB,NASA-MODIS,High,-4,40882,22.7,7141.662499999999,28.4,0.0,1.0
+Sulawesi Tenggara,KONAWE SELATAN,Angata,Lamooso,25-10-2024,12:50 WIB,NASA-NOAA20,High,-4,13799,25.2,7141.662499999999,28.9,0.0,1.0
+Sulawesi Tenggara,KONAWE SELATAN,Angata,Puao,16-09-2024,11:40 WIB,NASA-NOAA20,High,-4,18099,20.8,7141.662499999999,26.2,0.8285714285714285,1.0
+Sulawesi Tenggara,KONAWE SELATAN,Angata,Puulipu,10-11-2024,12:50 WIB,NASA-NOAA20,High,-4,1656,24.2,7141.662499999999,28.4,14.4,1.0
+Sulawesi Tenggara,KONAWE SELATAN,Baito,Matabubu,19-10-2024,13:01 WIB,NASA-NOAA20,High,-4,28293,22.8,7141.662499999999,28.9,0.0,1.0
+Sulawesi Tenggara,KONAWE SELATAN,Laeya,Labokeo,19-11-2024,11:40 WIB,NASA-NOAA20,High,-4,41342,24.0,7141.662499999999,29.2,0.8285714285714285,1.0
+Sulawesi Tenggara,KOTA BAU BAU,Sorawolio,Kelurahan Kaisabu Baru,09-10-2024,12:50 WIB,NASA-NOAA20,High,-5,4472,24.6,34.4,29.0,0.8285714285714285,2.0
+Sulawesi Tenggara,KOTA KENDARI,Poasia,Kelurahan Andonohu,16-09-2024,11:40 WIB,NASA-NOAA20,High,-4,6149,22.6,31.7,27.1,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Maipi,25-10-2024,13:12 WIB,NASA-MODIS,Medium,-2,47595,25.0,34.0,28.9,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Timur,Pancasila,15-10-2024,12:38 WIB,NASA-NOAA20,Medium,-1,92874,24.8,32.6,28.4,0.0,1.0
+Sulawesi Tengah,POSO,Lore Utara,Watumaeta,18-08-2024,12:25 WIB,NASA-NOAA20,Medium,-1,37968,23.4,33.2,27.7,0.0,1.0
+Sulawesi Barat,MAMUJU,Bonehau,Salutiwo,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-2,52168,26.2,35.4,29.9,0.0,1.0
+Sulawesi Utara,KOTA MANADO,Mapanget,Paniki Bawah,23-10-2024,08:37 WIB,NASA-MODIS,Medium,1,5379,23.0,34.4,30.2,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Singkona,21-11-2024,13:07 WIB,NASA-MODIS,Medium,-1,97885,24.2,33.2,28.8,0.0,1.0
+Sulawesi Barat,MAJENE,Sendana,Paminggalan,01-10-2024,08:41 WIB,NASA-MODIS,Medium,-3,3447,25.8,33.2,29.2,0.0,2.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-1,55408,24.2,34.4,30.0,0.0,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,06-10-2024,01:09 WIB,NASA-NOAA20,Medium,-4,94661,22.5,36.1,28.6,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Rampi,11-10-2024,12:14 WIB,NASA-NOAA20,Medium,-2,12238,24.6,33.8,28.1,5.3,1.0
+Gorontalo,GORONTALO,Bilato,Taula'a,11-09-2024,11:36 WIB,NASA-NOAA20,Medium,0,51952,21.2,33.3,27.8,0.0,3.0
+Sulawesi Tengah,POSO,Poso Kota,Gebangrejo Barat,28-08-2024,08:52 WIB,NASA-MODIS,Medium,-1,39509,24.0,33.2,27.6,0.0,1.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Tuweley,25-08-2024,08:28 WIB,NASA-MODIS,Medium,1,4201,22.8,31.4,26.1,66.9,2.0
+Sulawesi Selatan,MAROS,Cenrana,Laiya,30-09-2024,12:18 WIB,NASA-NOAA20,Medium,-5,6639,24.9,36.5,29.5,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Timur,Tiu,03-08-2024,12:08 WIB,NASA-NOAA20,Medium,-1,91756,23.4,33.0,27.7,28.0,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu Ujung,21-10-2024,12:25 WIB,NASA-NOAA20,Medium,-4,4317,25.8,33.4,29.7,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Sabbang Selatan,Bone Subur,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,-2,75241,24.2,33.6,28.0,2.4,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Langgosipi,05-09-2024,11:49 WIB,NASA-NOAA20,Medium,-4,54022,24.6,33.2,28.4,2.0,2.0
+Sulawesi Tengah,TOLI TOLI,Dondo,Ogowele,25-10-2024,12:53 WIB,NASA-NOAA20,Medium,0,73063,24.8,33.7,29.9,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Tanggetada,Palewai,24-09-2024,12:29 WIB,NASA-NOAA20,Medium,-4,36157,25.7,34.0,29.1,0.2,2.0
+Gorontalo,GORONTALO,Biluhu,Biluhu Barat,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,0,49699,23.4,35.7,28.8,0.0,1.0
+Sulawesi Utara,KOTA MANADO,Mapanget,Paniki Bawah,29-11-2024,11:53 WIB,NASA-NOAA20,Medium,1,51153,23.8,32.1,27.7,6.0,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,15-12-2024,11:53 WIB,NASA-NOAA20,Medium,-4,48113,25.2,33.8,28.4,0.1,2.0
+Gorontalo,GORONTALO,Asparaga,Bontula,05-10-2024,12:57 WIB,NASA-MODIS,Medium,0,84019,24.4,33.8,28.5,0.4,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Tanamakaleang,26-09-2024,11:55 WIB,NASA-NOAA20,Medium,-2,35371,25.4,34.4,29.0,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Dodolo,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-2,967,25.0,34.0,28.9,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Malangke Barat,Wara,11-09-2024,13:14 WIB,NASA-MODIS,Medium,-2,75564,22.8,32.0,26.9,0.0,1.0
+Gorontalo,GORONTALO,Tabongo,Tabongo Timur,11-10-2024,12:14 WIB,NASA-NOAA20,Medium,0,55922,24.2,34.4,28.5,1.5,2.0
+Sulawesi Selatan,LUWU UTARA,Malangke Barat,Wara,06-11-2024,12:27 WIB,NASA-NOAA20,Medium,-2,78531,24.5,33.6,28.4,0.0,1.0
+Sulawesi Selatan,KOTA MAKASSAR,Tamalate,Kelurahan Barombong,20-10-2024,12:44 WIB,NASA-NOAA20,Medium,-5,20712,24.8,32.2,28.4,0.0,2.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,14-08-2024,01:02 WIB,NASA-NOAA20,Medium,-4,94527,22.1,34.5,27.2,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Barati,07-11-2024,12:05 WIB,NASA-NOAA20,Medium,-2,2316,24.8,33.6,28.9,0.0,1.0
+Sulawesi Tengah,TOLI TOLI,Basidondo,Basi,25-10-2024,13:12 WIB,NASA-MODIS,Medium,0,74554,24.8,33.7,29.9,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Langgosipi,18-09-2024,12:44 WIB,NASA-NOAA20,Medium,-4,54524,24.6,34.2,29.6,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Tanamakaleang,23-09-2024,13:05 WIB,NASA-MODIS,Medium,-2,33305,25.2,34.8,29.3,0.0,1.0
+Sulawesi Tenggara,KOTA KENDARI,Poasia,Kelurahan Andonohu,23-10-2024,11:49 WIB,NASA-NOAA20,Medium,-4,6148,25.0,34.8,29.0,7.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Taloto,27-09-2024,11:34 WIB,NASA-NOAA20,Medium,-2,21935,24.7,33.8,28.4,1.2,1.0
+Sulawesi Barat,MAMUJU,Kalukku,Sondoang,30-12-2024,12:12 WIB,NASA-NOAA20,Medium,-2,57348,25.0,32.9,28.4,0.0,1.0
+Sulawesi Selatan,KOTA MAKASSAR,Tamalanrea,Kelurahan Bira,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-5,8742,24.6,33.3,28.8,0.0,2.0
+Gorontalo,GORONTALO,Limboto Barat,Daenaa,05-11-2024,12:46 WIB,NASA-NOAA20,Medium,0,68341,23.2,34.0,27.8,3.0,2.0
+Sulawesi Selatan,KOTA MAKASSAR,Mamajang,Kelurahan Mamajang Dalam,04-10-2024,12:44 WIB,NASA-NOAA20,Medium,-5,15987,24.6,33.2,28.9,0.6,2.0
+Sulawesi Selatan,MAROS,Tanralili,Kurusumange,06-10-2024,13:35 WIB,NASA-MODIS,Medium,-5,10241,22.5,36.1,28.6,0.0,2.0
+Sulawesi Tenggara,KOTA BAU BAU,Sorawolio,Kelurahan Gonda Baru,05-10-2024,12:23 WIB,NASA-NOAA20,Medium,-5,4473,23.6,34.5,28.2,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Sukamaju,Lampuawa,16-11-2024,12:37 WIB,NASA-NOAA20,Medium,-2,53689,24.0,33.6,28.8,1.6,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,15-09-2024,01:02 WIB,NASA-NOAA20,Medium,-4,94624,20.9,35.5,27.3,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Baebunta Selatan,Lembang-lembang,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,-2,73458,24.2,33.6,28.0,2.4,1.0
+Sulawesi Barat,MAMUJU,Kalumpang,Kalumpang,28-10-2024,13:33 WIB,NASA-MODIS,Medium,-2,49098,25.0,36.2,29.8,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Toari,Rano Jaya,20-10-2024,13:08 WIB,NASA-MODIS,Medium,-4,55274,25.4,33.6,29.3,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Lantang Tallang,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-2,46893,25.0,34.0,28.9,0.0,1.0
+Sulawesi Tengah,POSO,Lore Piore,Watutau,18-08-2024,13:27 WIB,NASA-MODIS,Medium,-1,55092,23.4,33.2,27.7,0.0,1.0
+Gorontalo,GORONTALO,Tolangohula,Polohungo,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,0,76529,23.4,35.7,28.8,0.0,1.0
+Sulawesi Barat,MAMUJU,Kalukku,Kelurahan Kalukku,22-10-2024,12:06 WIB,NASA-NOAA20,Medium,-2,55687,23.6,35.8,29.7,0.0,1.0
+Gorontalo,GORONTALO,Pulubala,Puncak,06-09-2024,11:29 WIB,NASA-NOAA20,Medium,0,66709,24.6,33.8,28.9,0.0,3.0
+Sulawesi Tenggara,KOTA BAU BAU,Sorawolio,Kelurahan Kaisabu Baru,30-09-2024,12:18 WIB,NASA-NOAA20,Medium,-5,46493,24.0,35.0,29.0,0.0,2.0
+Sulawesi Utara,KOTA MANADO,Mapanget,Buha,08-10-2024,08:24 WIB,NASA-MODIS,Medium,1,53899,22.0,33.2,28.6,0.2,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Lodang,06-11-2024,12:27 WIB,NASA-NOAA20,Medium,-2,3483,24.5,33.6,28.4,0.0,1.0
+Sulawesi Selatan,MAROS,Camba,Benteng,05-10-2024,12:23 WIB,NASA-NOAA20,Medium,-4,94187,23.7,35.9,29.0,0.0,2.0
+Sulawesi Selatan,MAROS,Mandai,Bonto Mate'ne,05-09-2024,11:49 WIB,NASA-NOAA20,Medium,-5,6962,23.3,35.4,28.7,0.0,2.0
+Gorontalo,GORONTALO,Dungaliyo,Botubulowe,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,0,58751,23.4,35.7,28.8,0.0,1.0
+Gorontalo,GORONTALO,Tabongo,Limehe Timur,08-11-2024,11:48 WIB,NASA-NOAA20,Medium,0,57045,24.3,35.0,27.9,6.5,1.0
+Sulawesi Selatan,LUWU UTARA,Baebunta Selatan,Mukti Jaya,05-11-2024,12:44 WIB,NASA-NOAA20,Medium,-2,72964,24.6,34.4,28.6,4.4,1.0
+Sulawesi Tengah,KOTA PALU,Palu Utara,Taipa,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,0,77063,23.8,35.8,29.2,0.0,3.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,18-10-2024,08:34 WIB,NASA-MODIS,Medium,-4,45769,25.2,32.8,29.0,0.0,2.0
+Sulawesi Selatan,MAROS,Tompobulu,Bonto Matinggi,10-10-2024,12:31 WIB,NASA-NOAA20,Medium,-5,14523,25.3,33.8,29.1,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Wayura,15-09-2024,11:59 WIB,NASA-NOAA20,Medium,-2,9554,23.4,35.0,29.5,0.0,2.0
+Sulawesi Selatan,MAROS,Tompobulu,Tompobulu,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-5,11135,22.5,36.1,28.6,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Barati,03-08-2024,12:08 WIB,NASA-NOAA20,Medium,-2,2602,23.4,33.0,27.7,28.0,1.0
+Sulawesi Selatan,MAROS,Tanralili,Toddopulia,09-10-2024,12:50 WIB,NASA-NOAA20,Medium,-5,1028,23.5,34.5,29.8,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Puselemba,Mayakeli,12-10-2024,11:53 WIB,NASA-NOAA20,Medium,-1,74589,20.8,33.0,28.6,11.0,1.0
+Gorontalo,GORONTALO,Bilato,Bumela,16-09-2024,11:42 WIB,NASA-NOAA20,Medium,0,58763,23.3,33.8,27.9,0.0,2.0
+Sulawesi Barat,MAJENE,Ulumanda,Tandeallo,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-3,9657,25.8,32.8,29.2,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Beroppa,26-09-2024,08:37 WIB,NASA-MODIS,Medium,-2,35861,25.4,34.4,29.0,0.0,1.0
+Sulawesi Tengah,POSO,Lore Timur,Tamadue,15-08-2024,11:42 WIB,NASA-NOAA20,Medium,-1,48821,22.8,34.6,27.1,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Pincara,23-10-2024,11:46 WIB,NASA-NOAA20,Medium,-2,46563,24.2,34.0,28.8,0.8,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,18-09-2024,00:07 WIB,NASA-NOAA20,Medium,-4,48246,24.6,34.2,29.6,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Tedeboe,25-10-2024,13:12 WIB,NASA-MODIS,Medium,-2,9668,25.0,34.0,28.9,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Leboni,15-08-2024,11:42 WIB,NASA-NOAA20,Medium,-2,15998,23.8,31.6,27.0,0.0,1.0
+Gorontalo,GORONTALO,Asparaga,Mohiyolo,17-08-2024,12:46 WIB,NASA-NOAA20,Medium,0,77041,23.1,33.3,27.0,0.0,1.0
+Gorontalo,GORONTALO,Boliyohuto,Tolite,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,0,66145,22.2,33.6,28.4,0.0,4.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Barati,21-11-2024,12:44 WIB,NASA-NOAA20,Medium,-2,1406,24.2,33.2,28.8,0.0,1.0
+Sulawesi Selatan,MAROS,Tompobulu,Tompobulu,11-09-2024,00:39 WIB,NASA-NOAA20,Medium,-5,11495,20.4,34.3,26.7,0.0,2.0
+Sulawesi Selatan,MAROS,Tanralili,Kurusumange,12-08-2024,12:38 WIB,NASA-NOAA20,Medium,-5,9537,22.1,35.1,28.1,0.0,2.0
+Sulawesi Barat,MAMUJU,Kalumpang,Sandapang,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,-2,37628,25.0,36.2,29.8,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Toari,Rano Sangia,19-09-2024,12:23 WIB,NASA-NOAA20,Medium,-4,55376,26.4,35.2,30.2,0.0,3.0
+Sulawesi Tengah,POSO,Lore Tengah,Rompo,18-09-2024,12:44 WIB,NASA-NOAA20,Medium,-1,62646,23.6,33.4,27.6,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Tanggetada,Lalonggolosua,21-09-2024,11:46 WIB,NASA-NOAA20,Medium,-4,31048,27.2,35.8,29.4,0.0,2.0
+Sulawesi Utara,KEPULAUAN SANGIHE,Tahuna Timur,Tona I,16-11-2024,08:13 WIB,NASA-MODIS,Medium,3,60966,24.8,31.7,27.6,0.0,2.0
+Sulawesi Tengah,POSO,Poso Pesisir,Toini,27-10-2024,12:14 WIB,NASA-NOAA20,Medium,-1,42544,24.6,33.2,28.3,0.0,1.0
+Sulawesi Tengah,POSO,Lore Piore,Watutau,14-08-2024,12:01 WIB,NASA-NOAA20,Medium,-1,58343,25.0,32.6,29.0,0.5,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Lodang,05-11-2024,12:44 WIB,NASA-NOAA20,Medium,-2,35192,24.6,34.4,28.6,4.4,1.0
+Sulawesi Tengah,POSO,Poso Pesisir Utara,Kalora,15-11-2024,12:59 WIB,NASA-NOAA20,Medium,-1,18798,22.2,32.8,27.5,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,04-10-2024,12:44 WIB,NASA-NOAA20,Medium,-4,52654,22.7,34.7,29.2,0.0,2.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,18-08-2024,12:25 WIB,NASA-NOAA20,Medium,-1,53689,23.4,33.2,27.7,0.0,1.0
+Sulawesi Tenggara,KOTA BAU BAU,Bungi,Kelurahan Waliabuku,05-10-2024,12:23 WIB,NASA-NOAA20,Medium,-5,38257,23.6,34.5,28.2,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Puselemba,Soe,12-10-2024,11:53 WIB,NASA-NOAA20,Medium,-1,74405,20.8,33.0,28.6,11.0,1.0
+Sulawesi Tengah,POSO,Poso Kota,Gebangrejo Barat,28-10-2024,08:41 WIB,NASA-MODIS,Medium,-1,39624,23.4,33.2,28.3,0.0,1.0
+Sulawesi Selatan,KOTA MAKASSAR,Tamalanrea,Kelurahan Kapasa Raya,15-09-2024,11:59 WIB,NASA-NOAA20,Medium,-5,10362,23.2,32.7,27.6,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Kamiri,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-2,52402,22.2,32.0,27.3,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Singkona,12-10-2024,11:53 WIB,NASA-NOAA20,Medium,-1,97944,20.8,33.0,28.6,11.0,1.0
+Gorontalo,GORONTALO,Biluhu,Lobuto,12-11-2024,12:14 WIB,NASA-NOAA20,Medium,0,48928,24.4,34.6,28.4,2.5,1.0
+Sulawesi Barat,MAMUJU,Tapalang Barat,Labuang Rano,26-10-2024,12:31 WIB,NASA-NOAA20,Medium,-2,79972,25.0,35.6,29.8,0.0,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,16-09-2024,00:43 WIB,NASA-NOAA20,Medium,-4,94511,21.5,35.0,27.1,0.0,2.0
+Gorontalo,GORONTALO,Bilato,Ilomata,09-11-2024,11:29 WIB,NASA-NOAA20,Medium,0,52717,23.7,34.1,27.6,65.3,2.0
+Gorontalo,GORONTALO,Boliyohuto,Tolite,19-08-2024,12:08 WIB,NASA-NOAA20,Medium,0,66179,24.8,33.7,28.3,4.7,3.0
+Sulawesi Tengah,TOLI TOLI,Ogodeide,Pagaitan,27-10-2024,12:14 WIB,NASA-NOAA20,Medium,0,87598,24.0,33.4,28.5,0.5,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,27-09-2024,11:34 WIB,NASA-NOAA20,Medium,-4,44958,26.1,34.8,29.2,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,08-10-2024,00:30 WIB,NASA-NOAA20,Medium,-4,4782,24.6,33.0,28.4,0.2,2.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Sulaku,18-08-2024,12:25 WIB,NASA-NOAA20,Medium,-2,14783,24.4,29.2,27.0,0.0,1.0
+Sulawesi Selatan,MAROS,Tompobulu,Toddolimae,30-09-2024,12:18 WIB,NASA-NOAA20,Medium,-5,8555,24.9,36.5,29.5,0.0,2.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Tuweley,21-11-2024,08:17 WIB,NASA-MODIS,Medium,1,4297,23.6,31.2,27.0,3.7,1.0
+Sulawesi Tenggara,KOTA KENDARI,Kendari,Kelurahan Mata,06-11-2024,12:27 WIB,NASA-NOAA20,Medium,-3,96393,25.0,32.4,28.3,2.4,1.0
+Sulawesi Tengah,TOLI TOLI,Ogodeide,Pagaitan,25-10-2024,13:12 WIB,NASA-MODIS,Medium,0,88915,24.8,33.7,29.9,0.0,2.0
+Sulawesi Barat,MAMUJU,Kalumpang,Limbong,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,-2,41699,25.0,36.2,29.8,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Sepakat,25-10-2024,13:12 WIB,NASA-MODIS,Medium,-2,49262,25.0,34.0,28.9,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Lamondape,19-10-2024,13:01 WIB,NASA-NOAA20,Medium,-4,41439,25.2,33.4,29.3,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Langgosipi,10-09-2024,11:55 WIB,NASA-NOAA20,Medium,-4,53625,24.1,33.4,28.4,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Puselemba,Pamona,17-08-2024,12:46 WIB,NASA-NOAA20,Medium,-1,71432,24.2,34.0,28.1,0.0,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,10-09-2024,00:56 WIB,NASA-NOAA20,Medium,-4,94475,22.3,34.5,27.4,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Pincara,22-10-2024,12:06 WIB,NASA-NOAA20,Medium,-2,46587,24.5,33.4,28.3,0.0,1.0
+Gorontalo,GORONTALO,Boliyohuto,Potanga,10-10-2024,12:31 WIB,NASA-NOAA20,Medium,0,71552,24.6,34.4,28.1,1.0,1.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Pondowae,24-09-2024,12:29 WIB,NASA-NOAA20,Medium,-4,47715,25.7,34.0,29.1,0.2,2.0
+Gorontalo,GORONTALO,Limboto,Kelurahan Tilihuwa,25-09-2024,12:14 WIB,NASA-NOAA20,Medium,0,68566,23.6,35.1,28.2,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Beroppa,23-09-2024,12:50 WIB,NASA-NOAA20,Medium,-2,36175,25.2,34.8,29.3,0.0,1.0
+Sulawesi Tenggara,KOTA BAU BAU,Sorawolio,Kelurahan Kaisabu Baru,05-10-2024,12:23 WIB,NASA-NOAA20,Medium,-5,45437,23.6,34.5,28.2,0.0,1.0
+Sulawesi Selatan,MAROS,Tompobulu,Bonto Matinggi,09-10-2024,12:50 WIB,NASA-NOAA20,Medium,-5,13617,23.5,34.5,29.8,0.0,2.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,04-10-2024,12:44 WIB,NASA-NOAA20,Medium,-1,50729,22.2,33.4,28.3,2.0,1.0
+Sulawesi Tengah,POSO,Lore Barat,Lengkeka,06-08-2024,08:52 WIB,NASA-MODIS,Medium,-1,845,23.2,32.6,26.7,0.0,1.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,29-10-2024,11:36 WIB,NASA-NOAA20,Medium,-1,58629,21.4,33.6,28.5,0.0,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,08-08-2024,01:15 WIB,NASA-NOAA20,Medium,-4,9459,23.0,34.2,27.8,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,21-10-2024,12:25 WIB,NASA-NOAA20,Medium,-4,47695,25.8,33.4,29.7,0.0,2.0
+Sulawesi Tenggara,KOTA BAU BAU,Betoambari,Kelurahan Labalawa,10-08-2024,08:17 WIB,NASA-MODIS,Medium,-5,51575,21.8,31.7,26.0,0.0,2.0
+Sulawesi Selatan,MAROS,Tompobulu,Tompobulu,05-10-2024,12:23 WIB,NASA-NOAA20,Medium,-5,10884,23.7,35.9,29.0,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Sulaku,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,-2,13403,24.0,34.6,29.1,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Baula,Puulemo,11-08-2024,00:17 WIB,NASA-NOAA20,Medium,-4,18228,22.8,33.3,27.5,0.0,3.0
+Sulawesi Tengah,POSO,Lore Piore,Watutau,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-1,55098,24.2,34.4,30.0,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Tanamakaleang,12-10-2024,11:53 WIB,NASA-NOAA20,Medium,-2,32416,24.8,34.2,29.2,24.8,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,03-08-2024,01:11 WIB,NASA-NOAA20,Medium,-4,94802,21.6,34.0,27.2,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Pondowae,20-10-2024,13:08 WIB,NASA-MODIS,Medium,-4,46357,25.4,33.6,29.3,0.0,2.0
+Gorontalo,GORONTALO,Tibawa,Motilango,14-09-2024,12:21 WIB,NASA-NOAA20,Medium,0,74719,24.3,32.7,27.5,0.0,3.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Tuweley,18-08-2024,08:41 WIB,NASA-MODIS,Medium,1,401,24.0,32.6,27.3,5.1,2.0
+Sulawesi Tengah,POSO,Lage,Tampemadoro,10-09-2024,11:53 WIB,NASA-NOAA20,Medium,-1,55788,24.4,34.6,29.3,0.0,2.0
+Sulawesi Tengah,POSO,Lore Tengah,Katu,16-08-2024,13:03 WIB,NASA-NOAA20,Medium,-1,57428,22.2,33.6,27.2,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Pomalaa,Sopura,16-09-2024,00:43 WIB,NASA-NOAA20,Medium,-4,27172,23.4,32.0,27.5,0.0,2.0
+Sulawesi Barat,MAMUJU,Kalumpang,Karataun,12-10-2024,11:53 WIB,NASA-NOAA20,Medium,-2,56578,23.6,32.6,27.3,38.1,1.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Sepakat,01-11-2024,12:21 WIB,NASA-NOAA20,Medium,-2,45697,25.2,32.8,28.5,0.0,1.0
+Sulawesi Tenggara,KOTA BAU BAU,Lea-Lea,Kelurahan Palabusa,01-08-2024,12:44 WIB,NASA-NOAA20,Medium,-5,35095,23.6,32.2,26.8,0.0,2.0
+Sulawesi Selatan,MAROS,Marusu,Abulosibatang,14-08-2024,01:02 WIB,NASA-NOAA20,Medium,-5,3715,22.1,34.5,27.2,0.0,2.0
+Gorontalo,GORONTALO,Bilato,Bumela,29-10-2024,11:36 WIB,NASA-NOAA20,Medium,0,59082,24.0,34.7,28.6,0.0,2.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Baru,25-10-2024,13:12 WIB,NASA-MODIS,Medium,1,4096,24.8,33.7,29.9,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Tanggeau,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-4,47484,24.2,34.2,29.2,0.0,2.0
+Gorontalo,GORONTALO,Bilato,Taula'a,11-10-2024,12:14 WIB,NASA-NOAA20,Medium,0,50999,24.2,34.4,28.5,1.5,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Omporiwo,02-11-2024,08:45 WIB,NASA-MODIS,Medium,-2,7315,22.6,33.2,27.4,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Mappedeceng,Harapan,28-09-2024,12:55 WIB,NASA-NOAA20,Medium,-2,52633,24.6,33.9,28.0,2.6,1.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Tedeboe,23-10-2024,13:29 WIB,NASA-MODIS,Medium,-2,11655,24.2,34.0,28.8,0.8,1.0
+Sulawesi Tengah,POSO,Lore Piore,Watutau,02-08-2024,12:25 WIB,NASA-NOAA20,Medium,-1,56086,24.0,34.0,27.6,0.0,1.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,10-09-2024,11:53 WIB,NASA-NOAA20,Medium,-1,53683,24.4,34.6,29.3,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Tanggeau,09-10-2024,12:50 WIB,NASA-NOAA20,Medium,-4,47491,25.4,32.8,28.5,7.3,2.0
+Sulawesi Tengah,POSO,Lage,Rato'ombu,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,-1,50413,23.4,33.2,28.3,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,09-10-2024,12:50 WIB,NASA-NOAA20,Medium,-4,47924,25.4,32.8,28.5,7.3,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Tanggeau,30-12-2024,12:12 WIB,NASA-NOAA20,Medium,-4,47442,27.6,34.4,30.2,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Taloto,16-09-2024,13:18 WIB,NASA-MODIS,Medium,-2,23155,23.0,32.8,26.9,0.0,1.0
+Sulawesi Tengah,POSO,Lore Utara,Dodolo,31-10-2024,12:38 WIB,NASA-NOAA20,Medium,-1,46649,23.2,33.8,29.0,0.0,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,01-10-2024,01:02 WIB,NASA-NOAA20,Medium,-4,94759,23.4,36.1,28.8,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Salindu,11-10-2024,12:14 WIB,NASA-NOAA20,Medium,-2,3303,21.6,32.4,28.2,15.5,1.0
+Sulawesi Selatan,LUWU UTARA,Baebunta,Sassa,24-09-2024,12:31 WIB,NASA-NOAA20,Medium,-2,52529,24.9,33.4,28.4,1.3,1.0
+Sulawesi Barat,MAMUJU,Tapalang Barat,Pasabu,30-10-2024,12:55 WIB,NASA-NOAA20,Medium,-2,80501,27.5,35.7,30.4,0.0,0.0
+Sulawesi Selatan,LUWU UTARA,Sabbang,Malimbu,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-2,49305,25.0,34.0,28.9,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Limbong,Minanga,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-2,54431,22.2,32.0,27.3,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Tana Lili,Patila,30-10-2024,00:17 WIB,NASA-NOAA20,Medium,-2,59646,24.6,35.2,29.4,0.0,1.0
+Sulawesi Tengah,TOLI TOLI,Ogodeide,Pagaitan,11-10-2024,12:14 WIB,NASA-NOAA20,Medium,0,90509,24.1,32.3,28.2,3.5,2.0
+Sulawesi Selatan,LUWU UTARA,Malangke,Benteng,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,-2,76792,24.2,33.6,28.0,2.4,1.0
+Sulawesi Tengah,POSO,Lore Tengah,Hangira,06-08-2024,12:53 WIB,NASA-NOAA20,Medium,-1,73116,23.2,32.6,26.7,0.0,1.0
+Sulawesi Barat,MAMUJU,Tapalang Barat,Pasabu,07-10-2024,11:49 WIB,NASA-NOAA20,Medium,-2,82785,24.8,28.0,25.6,17.8,1.0
+Gorontalo,GORONTALO,Dungaliyo,Momala,12-11-2024,12:14 WIB,NASA-NOAA20,Medium,0,53648,24.4,34.6,28.4,2.5,1.0
+Gorontalo,GORONTALO,Tolangohula,Bina Jaya,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,0,765,23.4,35.7,28.8,0.0,1.0
+Sulawesi Selatan,MAROS,Simbang,Samangki,12-09-2024,09:04 WIB,NASA-MODIS,Medium,-5,7775,20.8,35.3,26.9,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Tedeboe,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,-2,11489,24.0,34.6,29.1,0.0,1.0
+Sulawesi Barat,MAMUJU,Tapalang Barat,Lebani,18-12-2024,12:37 WIB,NASA-NOAA20,Medium,-2,74964,24.6,30.0,26.4,2.0,1.0
+Sulawesi Tenggara,KOLAKA,Tanggetada,Popalia,19-09-2024,12:23 WIB,NASA-NOAA20,Medium,-4,37639,26.4,35.2,30.2,0.0,3.0
+Sulawesi Tenggara,KOTA BAU BAU,Bungi,Kelurahan Waliabuku,31-10-2024,12:38 WIB,NASA-NOAA20,Medium,-5,38335,25.4,36.6,30.4,0.9,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Plasma Jaya,12-10-2024,11:55 WIB,NASA-NOAA20,Medium,-4,4381,25.8,34.4,29.3,1.7,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Lamondape,29-08-2024,12:21 WIB,NASA-NOAA20,Medium,-4,43794,24.0,33.0,28.0,0.1,2.0
+Sulawesi Utara,KOTA MANADO,Mapanget,Paniki Bawah,13-10-2024,08:28 WIB,NASA-MODIS,Medium,1,53773,23.0,32.4,28.7,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Sabbang Selatan,Buangin,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-2,70662,24.0,33.8,28.2,0.0,1.0
+Sulawesi Selatan,MAROS,Tompobulu,Bonto Manai,06-09-2024,13:08 WIB,NASA-MODIS,Medium,-5,8605,23.3,34.7,28.7,0.0,2.0
+Sulawesi Tengah,POSO,Lore Tengah,Lempe,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-1,73412,27.0,34.0,30.1,0.0,3.0
+Sulawesi Selatan,LUWU UTARA,Seko,Hoyane,23-09-2024,13:05 WIB,NASA-MODIS,Medium,-2,29992,25.2,34.8,29.3,0.0,1.0
+Sulawesi Utara,KOTA BITUNG,Madidir,Wangurer Barat,09-11-2024,08:28 WIB,NASA-MODIS,Medium,1,45047,22.6,32.8,27.6,21.9,1.0
+Sulawesi Tengah,POSO,Lore Timur,Mekarsari,23-10-2024,08:37 WIB,NASA-MODIS,Medium,-1,45203,23.6,33.6,28.8,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Tanggetada,Palewai,07-08-2024,12:31 WIB,NASA-NOAA20,Medium,-4,36322,23.3,32.4,27.7,8.1,2.0
+Sulawesi Tengah,POSO,Lore Piore,Wanga,15-08-2024,13:03 WIB,NASA-MODIS,Medium,-1,49971,22.8,34.6,27.1,0.0,1.0
+Sulawesi Tenggara,KOTA BAU BAU,Betoambari,Kelurahan Labalawa,20-08-2024,11:49 WIB,NASA-NOAA20,Medium,-5,5255,22.0,33.6,26.8,0.0,2.0
+Sulawesi Tengah,TOLI TOLI,Ogodeide,Batuilo,19-12-2024,12:20 WIB,NASA-NOAA20,Medium,0,82064,24.2,31.4,27.5,55.8,1.0
+Sulawesi Selatan,MAROS,Tompobulu,Tompobulu,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-5,12271,21.5,35.8,27.2,0.0,2.0
+Sulawesi Tengah,POSO,Lore Tengah,Hangira,16-09-2024,13:18 WIB,NASA-MODIS,Medium,-1,67399,23.4,33.6,27.4,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Utara,Saojo,14-09-2024,12:21 WIB,NASA-NOAA20,Medium,-1,68987,25.0,35.0,29.6,0.0,2.0
+Sulawesi Tengah,POSO,Lore Tengah,Doda,14-09-2024,12:21 WIB,NASA-NOAA20,Medium,-1,74099,25.0,35.0,29.6,0.0,2.0
+Sulawesi Tenggara,KOTA BAU BAU,Sorawolio,Kelurahan Gonda Baru,04-10-2024,12:44 WIB,NASA-NOAA20,Medium,-5,43634,23.8,34.0,28.4,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Hoyane,07-10-2024,11:49 WIB,NASA-NOAA20,Medium,-2,30878,24.1,33.3,28.3,0.0,2.0
+Gorontalo,GORONTALO,Tolangohula,Gandaria,05-10-2024,12:25 WIB,NASA-NOAA20,Medium,0,71211,24.4,33.8,28.5,0.4,2.0
+Gorontalo,GORONTALO,Bilato,Taula'a,14-08-2024,12:01 WIB,NASA-NOAA20,Medium,0,52428,23.8,33.2,27.6,0.9,2.0
+Sulawesi Tenggara,KOLAKA,Toari,Rano Sangia,18-09-2024,12:44 WIB,NASA-NOAA20,Medium,-4,60688,24.6,34.2,29.6,0.0,2.0
+Sulawesi Selatan,MAROS,Turikale,Kelurahan Bori Bellaya,04-10-2024,12:44 WIB,NASA-NOAA20,Medium,-4,98289,22.9,34.9,28.5,1.2,2.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Tuweley,11-08-2024,08:54 WIB,NASA-MODIS,Medium,1,4314,24.4,32.0,26.7,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Sepakat,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-2,48092,22.2,32.0,27.3,0.0,1.0
+Sulawesi Selatan,MAROS,Tompobulu,Tompobulu,04-10-2024,12:44 WIB,NASA-NOAA20,Medium,-5,15346,22.9,34.9,28.5,1.2,2.0
+Sulawesi Tenggara,KOLAKA,Toari,Rano Sangia,02-08-2024,12:25 WIB,NASA-NOAA20,Medium,-4,58428,26.3,33.8,27.8,0.0,3.0
+Sulawesi Tengah,POSO,Pamona Timur,Masewe,12-10-2024,11:53 WIB,NASA-NOAA20,Medium,-1,97485,20.8,33.0,28.6,11.0,1.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Rampi,24-09-2024,12:31 WIB,NASA-NOAA20,Medium,-2,10721,24.9,33.4,28.4,1.3,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,16-09-2024,11:40 WIB,NASA-NOAA20,Medium,-4,51811,23.4,32.0,27.5,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Timur,Masewe,07-10-2024,11:46 WIB,NASA-NOAA20,Medium,-1,95794,24.0,38.0,29.0,0.0,2.0
+Sulawesi Tenggara,KOTA KENDARI,Abeli,Kelurahan Abeli,26-09-2024,11:55 WIB,NASA-NOAA20,Medium,-3,99446,24.6,32.5,28.3,0.0,1.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Baru,09-09-2024,08:41 WIB,NASA-MODIS,Medium,1,3688,24.9,31.7,27.1,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,02-09-2024,12:44 WIB,NASA-NOAA20,Medium,-4,54973,24.2,33.6,28.3,0.0,2.0
+Sulawesi Selatan,MAROS,Camba,Kelurahan Mario Pulana,18-09-2024,12:44 WIB,NASA-NOAA20,Medium,-4,906,22.8,34.4,28.3,0.0,2.0
+Sulawesi Tengah,POSO,Lore Utara,Watumaeta,17-08-2024,12:46 WIB,NASA-NOAA20,Medium,-1,37719,24.2,34.0,28.1,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Padang Raya,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,-2,32413,24.2,33.6,28.0,2.4,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,13-10-2024,00:39 WIB,NASA-NOAA20,Medium,-4,94543,24.2,35.3,29.1,0.0,2.0
+Sulawesi Tengah,POSO,Lore Timur,Mekarsari,28-10-2024,08:41 WIB,NASA-MODIS,Medium,-1,45649,23.4,33.2,28.3,0.0,1.0
+Sulawesi Tengah,POSO,Lore Timur,Kalemago,16-09-2024,13:18 WIB,NASA-MODIS,Medium,-1,51393,23.4,33.6,27.4,0.0,1.0
+Sulawesi Utara,KOTA MANADO,Mapanget,Buha,13-10-2024,08:28 WIB,NASA-MODIS,Medium,1,53919,23.0,32.4,28.7,0.0,1.0
+Gorontalo,GORONTALO,Asparaga,Karya Indah,01-08-2024,12:46 WIB,NASA-NOAA20,Medium,0,77907,23.9,32.8,28.3,0.0,3.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Tokilo,28-10-2024,08:41 WIB,NASA-MODIS,Medium,-2,1928,23.4,33.2,28.3,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Leboni,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,-2,21997,24.2,33.6,28.0,2.4,1.0
+Sulawesi Tengah,POSO,Lore Tengah,Katu,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,-1,57965,23.4,33.2,28.3,0.0,1.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,03-08-2024,12:08 WIB,NASA-NOAA20,Medium,-1,50755,23.4,33.0,27.7,28.0,1.0
+Gorontalo,GORONTALO,Limboto Barat,Daenaa,15-09-2024,12:01 WIB,NASA-NOAA20,Medium,0,68804,22.2,33.3,27.3,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Rampi,Tedeboe,11-10-2024,12:14 WIB,NASA-NOAA20,Medium,-2,12474,24.6,33.8,28.1,5.3,1.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Tanggeau,04-08-2024,11:46 WIB,NASA-NOAA20,Medium,-4,46021,23.4,33.8,28.0,0.0,2.0
+Sulawesi Tengah,POSO,Lore Tengah,Hangira,24-08-2024,12:14 WIB,NASA-NOAA20,Medium,-1,681,24.6,33.6,29.7,9.6,1.0
+Sulawesi Tenggara,KOTA BAU BAU,Sorawolio,Kelurahan Kaisabu Baru,04-10-2024,12:44 WIB,NASA-NOAA20,Medium,-5,4615,23.8,34.0,28.4,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Salindu,04-09-2024,12:08 WIB,NASA-NOAA20,Medium,-2,822,24.0,32.2,27.6,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Tanggetada,Kelurahan Anaiwoi,16-09-2024,11:40 WIB,NASA-NOAA20,Medium,-4,37635,23.4,32.0,27.5,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Toari,Rano Sangia,05-09-2024,11:49 WIB,NASA-NOAA20,Medium,-4,55245,24.6,33.2,28.4,2.0,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Embonatana,05-10-2024,12:25 WIB,NASA-NOAA20,Medium,-2,3498,24.3,34.0,28.8,0.0,1.0
+Sulawesi Selatan,KOTA MAKASSAR,Tamalanrea,Kelurahan Kapasa Raya,01-10-2024,11:59 WIB,NASA-NOAA20,Medium,-5,10117,26.1,32.5,28.8,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Plasma Jaya,21-09-2024,11:46 WIB,NASA-NOAA20,Medium,-4,4089,27.2,35.8,29.4,0.0,2.0
+Gorontalo,GORONTALO,Pulubala,Ayumolingo,24-10-2024,11:29 WIB,NASA-NOAA20,Medium,0,68385,24.3,34.1,28.5,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Beroppa,12-09-2024,09:04 WIB,NASA-MODIS,Medium,-2,42653,22.0,32.8,27.2,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Pomalaa,Kelurahan Kumoro,02-09-2024,00:07 WIB,NASA-NOAA20,Medium,-4,18676,24.2,33.6,28.3,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Masamba,Lantang Tallang,24-10-2024,13:10 WIB,NASA-NOAA20,Medium,-2,45172,24.0,34.4,28.8,0.0,1.0
+Sulawesi Tenggara,KOTA BAU BAU,Sorawolio,Kelurahan Kaisabu Baru,27-10-2024,12:12 WIB,NASA-NOAA20,Medium,-5,45026,24.0,34.0,29.6,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Puselemba,Pamona,19-12-2024,12:18 WIB,NASA-NOAA20,Medium,-1,6583,22.4,32.8,28.0,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Malimongan,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-2,41721,22.2,32.0,27.3,0.0,1.0
+Sulawesi Selatan,MAROS,Tompobulu,Tompobulu,18-09-2024,12:44 WIB,NASA-NOAA20,Medium,-5,1323,22.8,34.4,28.3,0.0,2.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Tuweley,12-11-2024,08:49 WIB,NASA-MODIS,Medium,1,404,24.0,32.2,27.7,0.0,2.0
+Sulawesi Barat,MAJENE,Ulumanda,Popenga,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-3,113,25.8,32.8,29.2,0.0,1.0
+Sulawesi Tenggara,KOTA KENDARI,Kambu,Kelurahan Mokoau,30-10-2024,00:17 WIB,NASA-NOAA20,Medium,-4,6246,25.0,33.4,28.9,0.0,1.0
+Sulawesi Barat,MAMUJU,Simboro dan Kepulauan,Kelurahan Rangas,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-2,69647,26.2,35.4,29.9,0.0,1.0
+Sulawesi Tengah,TOLI TOLI,Lampasio,Janja,13-09-2024,12:57 WIB,NASA-MODIS,Medium,0,86905,23.2,33.4,28.2,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Seko,Embonatana,23-10-2024,13:29 WIB,NASA-MODIS,Medium,-2,34396,24.2,34.0,28.8,0.8,1.0
+Sulawesi Tengah,POSO,Lore Timur,Winowanga,12-09-2024,12:57 WIB,NASA-NOAA20,Medium,-1,45507,25.6,34.6,29.6,0.0,3.0
+Sulawesi Selatan,TANA TORAJA,Masanda,Paliorong,01-10-2024,13:31 WIB,NASA-MODIS,Medium,-2,99763,16.8,30.4,21.4,0.0,3.0
+Sulawesi Barat,MAMUJU,Tommo,Leling Barat,18-12-2024,12:37 WIB,NASA-NOAA20,Medium,-2,23815,24.6,30.0,26.4,2.0,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,18-11-2024,01:02 WIB,NASA-NOAA20,Medium,-4,94273,23.5,32.9,27.7,70.4,1.0
+Gorontalo,GORONTALO,Bilato,Taula'a,14-09-2024,12:21 WIB,NASA-NOAA20,Medium,0,51776,24.3,32.7,27.5,0.0,3.0
+Gorontalo,GORONTALO,Tibawa,Isimu Utara,06-09-2024,11:29 WIB,NASA-NOAA20,Medium,0,70921,24.6,33.8,28.9,0.0,3.0
+Gorontalo,GORONTALO,Pulubala,Ayumolingo,05-10-2024,12:25 WIB,NASA-NOAA20,Medium,0,68489,24.4,33.8,28.5,0.4,2.0
+Sulawesi Selatan,MAROS,Marusu,Temmapaduae,05-11-2024,12:44 WIB,NASA-NOAA20,Medium,-5,451,22.8,33.4,27.5,22.8,1.0
+Sulawesi Selatan,LUWU UTARA,Tana Lili,Munte,21-10-2024,12:25 WIB,NASA-NOAA20,Medium,-2,67589,23.6,33.2,28.0,4.0,1.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Plasma Jaya,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-4,44396,24.2,34.2,29.2,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Singkona,17-08-2024,12:46 WIB,NASA-NOAA20,Medium,-1,98701,24.2,34.0,28.1,0.0,1.0
+Sulawesi Tengah,POSO,Lore Piore,Watutau,24-08-2024,12:14 WIB,NASA-NOAA20,Medium,-1,52694,24.6,33.6,29.7,9.6,1.0
+Sulawesi Selatan,LUWU UTARA,Bone Bone,Pongko,16-09-2024,11:42 WIB,NASA-NOAA20,Medium,-2,73186,23.0,32.8,26.9,0.0,1.0
+Sulawesi Barat,MAMUJU,Bonehau,Bonehau,29-10-2024,11:36 WIB,NASA-NOAA20,Medium,-2,54331,26.2,35.8,30.7,0.0,1.0
+Sulawesi Tengah,POSO,Lore Timur,Tamadue,22-11-2024,12:27 WIB,NASA-NOAA20,Medium,-1,47215,24.2,32.8,27.8,0.0,1.0
+Sulawesi Tengah,TOLI TOLI,Basidondo,Kayu Lompa,26-10-2024,12:31 WIB,NASA-NOAA20,Medium,0,72028,24.0,33.8,28.5,0.0,2.0
+Sulawesi Tengah,TOLI TOLI,Ogodeide,Pagaitan,13-11-2024,11:55 WIB,NASA-NOAA20,Medium,0,87853,24.4,32.2,28.1,0.0,2.0
+Sulawesi Selatan,MAROS,Tompobulu,Tompobulu,01-10-2024,11:59 WIB,NASA-NOAA20,Medium,-5,12293,23.4,36.1,28.8,0.0,2.0
+Gorontalo,GORONTALO,Tolangohula,Tamalia Utara,14-10-2024,12:57 WIB,NASA-NOAA20,Medium,0,76659,24.7,34.2,28.0,18.2,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kastura,15-09-2024,12:38 WIB,NASA-MODIS,Medium,-4,45098,23.0,32.4,27.5,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Timur,Taripa,15-08-2024,13:03 WIB,NASA-MODIS,Medium,-1,86517,22.8,34.6,27.1,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Barati,06-11-2024,12:27 WIB,NASA-NOAA20,Medium,-2,1893,25.0,33.0,28.5,0.5,1.0
+Sulawesi Tenggara,KOLAKA,Pomalaa,Sopura,13-10-2024,11:34 WIB,NASA-NOAA20,Medium,-4,2621,25.6,33.1,29.5,1.2,2.0
+Gorontalo,GORONTALO,Bilato,Bilato,27-10-2024,12:14 WIB,NASA-NOAA20,Medium,0,54339,24.8,34.2,29.3,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Barati,18-11-2024,11:59 WIB,NASA-NOAA20,Medium,-2,3723,24.0,33.0,27.6,21.5,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kukutio,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-4,51962,24.2,34.2,29.2,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Malangke Barat,Waetuo,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,-2,82083,24.2,33.6,28.0,2.4,1.0
+Sulawesi Tengah,POSO,Lore Tengah,Katu,23-10-2024,11:46 WIB,NASA-NOAA20,Medium,-1,61223,23.6,33.6,28.8,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Tanggetada,Tinggo,21-10-2024,12:25 WIB,NASA-NOAA20,Medium,-4,38515,25.8,33.4,29.7,0.0,2.0
+Sulawesi Tengah,POSO,Lore Barat,Lengkeka,05-10-2024,12:25 WIB,NASA-NOAA20,Medium,-1,85201,25.0,32.4,28.6,0.0,1.0
+Sulawesi Selatan,MAROS,Tanralili,Damai,13-08-2024,12:21 WIB,NASA-NOAA20,Medium,-5,9437,22.6,34.5,27.4,0.0,2.0
+Sulawesi Selatan,LUWU UTARA,Malangke,Tolada,21-10-2024,12:25 WIB,NASA-NOAA20,Medium,-2,7227,23.6,33.2,28.0,4.0,1.0
+Sulawesi Tengah,POSO,Lore Barat,Tuare,03-08-2024,12:08 WIB,NASA-NOAA20,Medium,-1,81187,23.4,33.0,27.7,28.0,1.0
+Sulawesi Barat,MAMUJU,Kalumpang,Sandapang,07-10-2024,11:49 WIB,NASA-NOAA20,Medium,-2,38089,24.8,28.0,25.6,17.8,1.0
+Sulawesi Barat,MAMUJU,Kalumpang,Karataun,01-10-2024,08:39 WIB,NASA-MODIS,Medium,-2,56175,23.8,33.0,27.6,7.3,1.0
+Gorontalo,GORONTALO,Tabongo,Motinelo,28-10-2024,11:55 WIB,NASA-NOAA20,Medium,0,57316,24.0,34.3,28.5,0.0,2.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Tokilo,06-11-2024,12:27 WIB,NASA-NOAA20,Medium,-2,1668,25.0,33.0,28.5,0.5,1.0
+Sulawesi Tengah,POSO,Lore Utara,Sedoa,25-10-2024,13:12 WIB,NASA-MODIS,Medium,-1,3422,23.6,33.0,28.8,0.0,1.0
+Sulawesi Utara,MINAHASA UTARA,Kalawat,Watutumou Tiga,20-12-2024,11:59 WIB,NASA-NOAA20,Medium,1,47018,26.0,32.4,28.5,2.9,1.0
+Gorontalo,GORONTALO,Limboto Barat,Pone,29-10-2024,00:37 WIB,NASA-NOAA20,Medium,0,64018,24.0,34.7,28.6,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Kelurahan Wolulu,19-09-2024,12:23 WIB,NASA-NOAA20,Medium,-4,4436,26.4,35.2,30.2,0.0,3.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,02-08-2024,12:25 WIB,NASA-NOAA20,Medium,-1,52158,24.0,34.0,27.6,0.0,1.0
+Sulawesi Tengah,POSO,Pamona Tenggara,Korobono,31-10-2024,12:38 WIB,NASA-NOAA20,Medium,-2,5853,23.2,33.8,29.0,0.0,1.0
+Sulawesi Tengah,TOLI TOLI,Baolan,Tuweley,30-10-2024,08:22 WIB,NASA-MODIS,Medium,1,4254,25.0,33.0,29.1,0.0,2.0
+Sulawesi Selatan,MAROS,Bontoa,Botolempangang,23-08-2024,12:31 WIB,NASA-NOAA20,Medium,-4,90624,23.6,33.1,27.8,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Tanggetada,Pewisoa Jaya,19-09-2024,12:23 WIB,NASA-NOAA20,Medium,-4,35439,26.4,35.2,30.2,0.0,3.0
+Sulawesi Selatan,LUWU UTARA,Seko,Tanamakaleang,05-10-2024,12:25 WIB,NASA-NOAA20,Medium,-2,35292,24.3,34.0,28.8,0.0,1.0
+Sulawesi Barat,MAMUJU,Kalumpang,Sandapang,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-2,37935,26.2,35.4,29.9,0.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Padang Raya,12-12-2024,12:50 WIB,NASA-NOAA20,Medium,-2,3245,25.0,33.6,26.9,3.0,1.0
+Sulawesi Selatan,LUWU UTARA,Seko,Embonatana,28-10-2024,11:53 WIB,NASA-NOAA20,Medium,-2,37753,24.0,34.6,29.1,0.0,1.0
+Gorontalo,GORONTALO,Bilato,Lamahu,03-12-2024,12:20 WIB,NASA-NOAA20,Medium,0,61284,25.8,33.8,29.7,0.1,2.0
+Sulawesi Barat,MAMUJU,Kalumpang,Siraun,01-10-2024,11:59 WIB,NASA-NOAA20,Medium,-2,59895,23.8,33.0,27.6,7.3,1.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Plasma Jaya,16-09-2024,13:16 WIB,NASA-MODIS,Medium,-4,44747,23.4,32.0,27.5,0.0,2.0
+Gorontalo,GORONTALO,Biluhu,Biluhu Barat,13-10-2024,11:36 WIB,NASA-NOAA20,Medium,0,498,23.3,34.8,27.5,1.5,1.0
+Sulawesi Selatan,MAROS,Bantimurung,Baruga,15-08-2024,00:43 WIB,NASA-NOAA20,Medium,-4,94579,21.9,34.4,27.1,0.0,2.0
+Gorontalo,GORONTALO,Tolangohula,Tamaila,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,0,81951,22.2,33.6,28.4,0.0,4.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,07-10-2024,11:46 WIB,NASA-NOAA20,Medium,-4,5588,25.4,31.0,28.6,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Polinggona,Pondowae,21-10-2024,12:25 WIB,NASA-NOAA20,Medium,-4,46595,25.8,33.4,29.7,0.0,2.0
+Sulawesi Tengah,POSO,Lore Barat,Tuare,25-10-2024,12:50 WIB,NASA-NOAA20,Medium,-1,80762,23.6,33.0,28.8,0.0,1.0
+Sulawesi Tengah,POSO,Poso Pesisir Utara,Kalora,15-09-2024,11:59 WIB,NASA-NOAA20,Medium,-1,21982,23.4,35.0,29.5,0.0,2.0
+Sulawesi Tenggara,KOLAKA,Toari,Rano Sangia,06-10-2024,12:06 WIB,NASA-NOAA20,Medium,-4,58595,24.2,34.2,29.2,0.0,2.0
+Sulawesi Tengah,POSO,Lore Timur,Maholo,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-1,50235,27.0,34.0,30.1,0.0,3.0
+Sulawesi Tengah,POSO,Pamona Timur,Taripa,28-10-2024,08:41 WIB,NASA-MODIS,Medium,-1,85493,23.4,33.2,28.3,0.0,1.0
+Sulawesi Tengah,POSO,Lore Barat,Lelio,13-09-2024,12:38 WIB,NASA-NOAA20,Medium,-1,84148,27.0,34.0,30.1,0.0,3.0
+Sulawesi Tengah,TOLI TOLI,Ogodeide,Bambalaga,19-09-2024,12:25 WIB,NASA-NOAA20,Medium,0,83216,24.0,33.3,29.2,0.0,1.0
+Sulawesi Tenggara,KOLAKA,Watubangga,Mataosu,05-11-2024,12:44 WIB,NASA-NOAA20,Medium,-4,46339,24.8,33.0,28.6,28.9,1.0
+Sulawesi Tengah,POSO,Pamona Puselemba,Soe,30-10-2024,12:57 WIB,NASA-NOAA20,Medium,-1,7182,22.8,33.2,28.5,0.0,1.0
+Sulawesi Utara,KOTA BITUNG,Maesa,Kakenturan Satu,08-10-2024,08:24 WIB,NASA-MODIS,Medium,1,45104,25.0,31.5,28.8,13.6,2.0
